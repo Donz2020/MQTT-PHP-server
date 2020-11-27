@@ -1,87 +1,16 @@
-[27/Nov/2020:14:21:54] (server) test provamessaggio
-[27/Nov/2020:14:23:37] (server) test da client
-[27/Nov/2020:14:23:40] (server) test da client
-[27/Nov/2020:14:23:44] (server) test da client
-[27/Nov/2020:14:26:52] (server) test da client
-[27/Nov/2020:14:30:37 -UTC 1606487437UTCC] (server) test da client
-[27/Nov/2020:14:30:37 -UTC 1606487437UTCC] (server) test da client
-[27/Nov/2020:14:31:20 UTC] (server) test da client
-[27/Nov/2020:14:31:20 UTC] (server) test da client
-[27/Nov/2020:14:32:18 UTC+1] (server) test da client
-[27/Nov/2020:14:32:18 UTC+1] (server) test da client
-[27/Nov/2020:14:36:15 UTC+1 E000000Fri, 27 Nov 2020 14:36:15 +00002020pUTC/120201127202011] (server) test da client
-[27/Nov/2020:14:36:15 UTC+1 E000000Fri, 27 Nov 2020 14:36:15 +00002020pUTC/120201127202011] (server) test da client
-[27/Nov/2020:14:37:05 1606487825UTCC ] (server) test da client
-[27/Nov/2020:14:38:28],[1606487908UTCC+1] (server) test da client
-[27/Nov/2020:14:38:28],[1606487908UTCC+1] (server) test da client
-[27/Nov/2020:140+1:40:40] (server) test da client
-[27/Nov/2020:14UTC:42:25] (server) test da client
-[27/Nov/2020:14UTC:42:36] (server) test da client
-[27/Nov/2020:14:42:52] (server) test da client
-[27/Nov/2020:14:42:52] (server) test da client
-[27/Nov/2020:14:43:59] (server) test da client
-[Fri, 27 Nov 2020 14:52:04 +0000] (server) test da client
-[27/Nov/2020:15:55:45] (server) test da client
-[27/Nov/2020:15:55:45] (server) test da client
-[27/Nov/2020:15:57:53] (server) test da client
-[27/Nov/2020:15:57:53] (server) test da client
-[27/Nov/2020:15:57:54] (server) test da client
-[27/Nov/2020:15:57:54] (server) test da client
-[27/Nov/2020:15:57:54] (server) test da client
-[27/Nov/2020:15:57:54] (server) test da client
-[27/Nov/2020:15:57:59] (server) test da client
-[27/Nov/2020:15:58:12] (server) ciaodauntopic da client
-[27/Nov/2020:15:59:49] (server) 0 0
-[27/Nov/2020:15:59:49] (server) 0 0
-[27/Nov/2020:16:00:45] (server) ciaodauntopic da client
-[27/Nov/2020:16:00:45] (server) ciaodauntopic da client
-[27/Nov/2020:16:00:46] (server) ciaodauntopic da client
-[27/Nov/2020:16:03:10] (server) topicciaodauntopic messaggioda client
-[27/Nov/2020:16:03:10] (server) topicciaodauntopic messaggioda client
-[27/Nov/2020:16:03:10] (server) topicciaodauntopic messaggioda client
-[27/Nov/2020:16:03:53] (server) topic :ciaodauntopic messaggio:da client
-[27/Nov/2020:16:04:18] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:04:18] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:04:31] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:04:32] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:04:32] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:04:32] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:04:32] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:04:32] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:12:34] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:12:34] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:12:34] (server) topic : ciaodauntopic messaggio: da client
-[27/Nov/2020:16:12:47] (server) topic : un'altro messaggio: da client
-[27/Nov/2020:16:12:47] (server) topic : un'altro messaggio: da client
-[27/Nov/2020:16:13:20] (server) topic : test messaggio: da client
-[27/Nov/2020:16:13:47] (server) topic : test messaggio: da client
-[27/Nov/2020:16:15:48] (server) topic : test messaggio: da client
-[27/Nov/2020:16:15:48] (server) topic : test messaggio: da client
-[27/Nov/2020:16:15:48] (server) topic : test messaggio: da client
-[27/Nov/2020:16:15:48] (server) topic : test messaggio: da client
-[27/Nov/2020:16:16:24] (server) topic: test messaggio: da client
-[27/Nov/2020:16:24:00] (server) topic: test messaggio: da client
-[27/Nov/2020:16:24:05] (server) topic: test messaggio: da client
-[27/Nov/2020:16:24:05] (server) topic: test messaggio: da client
-[27/Nov/2020:16:24:06] (server) topic: test messaggio: da client
-[27/Nov/2020:16:26:32] (server) topic: test messaggio: da client
-[27/Nov/2020:16:26:37] (server) topic: test messaggio: da client
-[27/Nov/2020:16:26:37] (server) topic: test messaggio: da client
-[27/Nov/2020:16:26:37] (server) topic: test messaggio: da client
-[27/Nov/2020:16:26:56] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:26:56] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:27:52] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:27:52] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:27:52] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:27:53] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:28:46] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:28:47] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:28:52] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:28:55] (server) topic: test messaggio: nuova bolla
-[27/Nov/2020:16:28:59] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:28:59] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:29:00] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:33:16] (server) topic: test messaggio: nuova bolla
-[27/Nov/2020:16:33:16] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:33:29] (server) topic: amm/commerciale messaggio: nuova bolla
-[27/Nov/2020:16:33:29] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:17:16:48] (server) topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:16:48] (server) topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:18:45] () topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:19:15] (Array) topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:19:44] (server) topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:20:25] () topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:23:10] (server)  topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:23:26] (server)  topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:23:32] (server)  topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:23:32] (server)  topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:26:46] (server) hostname: topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:27:01] (server) hostname: topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:27:39] (server) topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:27:42] (server) topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:27:42] (server) topic: amm/commerciale messaggio: nuova bolla2
+[27/Nov/2020:17:27:42] (server) topic: amm/commerciale messaggio: nuova bolla2
