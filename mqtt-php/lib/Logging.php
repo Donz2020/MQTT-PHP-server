@@ -5,12 +5,16 @@ class Logging
 {
 // declare log file and file pointer as private properties
     private $log_file, $fp;
+
     // set log file (path and name)
-    public function lfile($path) {
+    public function lfile($path)
+    {
         $this->log_file = $path;
     }
+
     // write message to the log file
-    public function lwrite($message) {
+    public function lwrite($topic, $message)
+    {
         // if file pointer doesn't exist, then open log file
         if (!is_resource($this->fp)) {
             $this->lopen();
@@ -21,19 +25,22 @@ class Logging
         // (don't forget to set the INI setting date.timezone)
         $time = @date('[d/M/Y:H:i:s]');
         // write current time, script name and message to the log file
-        fwrite($this->fp, "$time ($script_name) $message" . PHP_EOL);
+        fwrite($this->fp, "$time ($script_name) $topic $message" . PHP_EOL);
     }
+
     // close log file (it's always a good idea to close a file when you're done with it)
-    public function lclose() {
+    public function lclose()
+    {
         fclose($this->fp);
     }
+
     // open log file (private method)
-    private function lopen() {
+    private function lopen()
+    {
         // in case of Windows set default log file
         if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
             $log_file_default = 'D:\progetti_stage\mqtt-php\log\logfile.txt';
-        }
-        // set default log file for Linux and other systems
+        } // set default log file for Linux and other systems
         else {
             $log_file_default = '/tmp/logfile.txt';
         }

@@ -14,26 +14,31 @@ $cafile = '../mqtt-php/certs/ca.crt';
 
 
 $mqtt = new mqtt\phpMQTT($server, $port, $client_id, $cafile);
-$log = new Logging();
+
 
 if (!$mqtt->connect(true, NULL, $username, $password)) {
-    echo "Failed to connect to MQTT Broker";
     exit(1);
 }
 
 
-$topics['#'] = array('qos' => 0, 'function' => 'procMsg');
+$topics['#'] = array('qos' => 0, 'function' => 'logger');
 $mqtt->subscribe($topics, 0);
 
 while ($mqtt->proc()) {
-    $log->lwrite('Test message1');
-
 }
 
 $mqtt->close();
 
-$log->lclose();
 
+function logger($topic, $msg)
+{
+    $log = new Logging();
+
+    $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
+    $log->lclose();
+}
+
+/*
 function procMsg($topic, $msg)
 {
     echo 'Message Received: ' . date('r') . "\n";
@@ -41,3 +46,4 @@ function procMsg($topic, $msg)
     echo "\t$msg\n\n";
 
 }
+*/

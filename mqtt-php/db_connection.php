@@ -8,10 +8,9 @@ $username = "root";
 $password = "root";
 $dbname = "mqtt_connect";
 
-$connection = new mysqli($servername, $username, $password, $dbname,$port);
+$connection = new mysqli($servername, $username, $password, $dbname, $port);
 
-if ($connection->connect_error)
-{
+if ($connection->connect_error) {
     die("Connection failed: " . $connection->connect_error);
 }
 

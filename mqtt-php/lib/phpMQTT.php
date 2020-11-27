@@ -481,7 +481,7 @@ class phpMQTT
                 if (is_callable($top['function'])) {
                     call_user_func($top['function'], $topic, $msg);
                 } else {
-                    $this->_errorMessage('Message received on topic ' . $topic. ' but function is not callable.');
+                    $this->_errorMessage('Message received on topic ' . $topic . ' but function is not callable.');
                 }
             }
         }
