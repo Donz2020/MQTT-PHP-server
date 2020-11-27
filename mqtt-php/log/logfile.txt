@@ -60,3 +60,28 @@
 [27/Nov/2020:16:15:48] (server) topic : test messaggio: da client
 [27/Nov/2020:16:15:48] (server) topic : test messaggio: da client
 [27/Nov/2020:16:16:24] (server) topic: test messaggio: da client
+[27/Nov/2020:16:24:00] (server) topic: test messaggio: da client
+[27/Nov/2020:16:24:05] (server) topic: test messaggio: da client
+[27/Nov/2020:16:24:05] (server) topic: test messaggio: da client
+[27/Nov/2020:16:24:06] (server) topic: test messaggio: da client
+[27/Nov/2020:16:26:32] (server) topic: test messaggio: da client
+[27/Nov/2020:16:26:37] (server) topic: test messaggio: da client
+[27/Nov/2020:16:26:37] (server) topic: test messaggio: da client
+[27/Nov/2020:16:26:37] (server) topic: test messaggio: da client
+[27/Nov/2020:16:26:56] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:26:56] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:27:52] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:27:52] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:27:52] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:27:53] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:28:46] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:28:47] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:28:52] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:28:55] (server) topic: test messaggio: nuova bolla
+[27/Nov/2020:16:28:59] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:28:59] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:29:00] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:33:16] (server) topic: test messaggio: nuova bolla
+[27/Nov/2020:16:33:16] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:33:29] (server) topic: amm/commerciale messaggio: nuova bolla
+[27/Nov/2020:16:33:29] (server) topic: amm/commerciale messaggio: nuova bolla
