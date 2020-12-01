@@ -1,0 +1,7 @@
+[Tue 2020-12-01 12:21:31 PM] [server localhost:8883] [message localhost]
+[Tue 2020-12-01 12:21:38 PM] [server localhost:8883] [message localhost]
+[Tue 2020-12-01 12:35:53 PM] [server localhost:8883] [message localhost]
+[Tue 2020-12-01 12:36:26 PM] [server localhost:8883] [message localhost]
+[Tue 2020-12-01 12:41:04 PM] [server localhost:8883] [message localhost]
+[Tue 2020-12-01 12:41:17 PM] [server localhost:8883] [message localhost]
+[Tue 2020-12-01 12:41:19 PM] [server localhost:8883] [message localhost]

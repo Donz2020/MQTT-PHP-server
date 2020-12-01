@@ -13,7 +13,7 @@ class Logging
     }
 
     // write message to the log file
-    public function lwrite($topic, $message)
+    public function lwrite($topic , $message)
     {
         // if file pointer doesn't exist, then open log file
         if (!is_resource($this->fp)) {
