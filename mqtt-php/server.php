@@ -2,7 +2,10 @@
 
 include('../mqtt-php/lib/Logging.php');
 
-require('../mqtt-php/lib/phpMQTT.php');
+require('../mqtt-php/connectionLog.php');
+
+
+//require('../mqtt-php/lib/phpMQTT.php');
 
 
 $server = 'localhost';
@@ -13,20 +16,27 @@ $client_id = 'phpMQTT-server';
 $cafile = '../mqtt-php/certs/ca.crt';
 
 
-$mqtt = new mqtt\phpMQTT($server, $port, $client_id, $cafile);
+
+$mqtt = new phpMQTT($server, $port, $client_id, $cafile);
+$mqtt->debug = true;
+
+$log = new connectionLog($server, $port, $client_id, $cafile);
+$log->_debugMessage($server);
 
 
+
+/*
 $myfile = fopen(".\log\connectionlog.txt", "a") or die("Unable to open file!");
 $txt = "[" . date("D Y-m-d h:i:s A") . "] [server " . $server.":".$port . "] [message " . $server . "]\n";
 fwrite($myfile, $txt);
 fclose($myfile);
+*/
 
 
 if (!$mqtt->connect(true, NULL, $username, $password)) {
     exit(1);
 }
 
-$mqtt->debug = true;
 
 $topics['#'] = array('qos' => 0, 'function' => 'logger');
 $mqtt->subscribe($topics, 0);
