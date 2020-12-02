@@ -2,7 +2,7 @@
 
 include('../mqtt-php/lib/Logging.php');
 
-require('../mqtt-php/connectionLog.php');
+require('../mqtt-php/lib/connectionLog.php');
 
 
 //require('../mqtt-php/lib/phpMQTT.php');
@@ -16,13 +16,12 @@ $client_id = 'phpMQTT-server';
 $cafile = '../mqtt-php/certs/ca.crt';
 
 
-
 $mqtt = new phpMQTT($server, $port, $client_id, $cafile);
 $mqtt->debug = true;
 
-$log = new connectionLog($server, $port, $client_id, $cafile);
-$log->_debugMessage($server);
 
+//$log = new connectionLog($server, $port, $client_id, $cafile);
+//$log->_debugMessage($server);
 
 
 /*
