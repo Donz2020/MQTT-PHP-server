@@ -1,15 +1,15 @@
 <?php
 
 
-include('../mqtt-php/lib/phpMQTT.php');
+include(__DIR__.'/phpMQTT.php');
 
 class connectionLog extends phpMQTT
+
 {
 
-
-    protected function _debugMessage(string $message): void
+    public function _debugMessage(string $message): void
     {
-
+        echo date('r: ') . $message . PHP_EOL;
         $var = date('r: ') . $message . PHP_EOL;
         $myfile = fopen("D:\progetti_stage\mqtt-php\log\connectionlog.txt", "a") or die("Unable to open file!");
         fwrite($myfile, $var);
@@ -18,6 +18,4 @@ class connectionLog extends phpMQTT
 
     }
 
-
 }
-

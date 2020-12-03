@@ -117,3 +117,11 @@
 [02/Dec/2020:10:01:50] (server) topic: amm/commerciale messaggio: t
 [02/Dec/2020:10:02:06] (server) topic: amm/commerciale messaggio: t
 [02/Dec/2020:17:17:40] (server) topic: amm/commerciale messaggio: rrr
+[02/Dec/2020:17:38:40] (server) topic: amm/commerciale messaggio: rrr
+[02/Dec/2020:17:38:40] (server) topic: amm/commerciale messaggio: rrr
+[02/Dec/2020:17:38:41] (server) topic: amm/commerciale messaggio: rrr
+[02/Dec/2020:17:38:41] (server) topic: amm/commerciale messaggio: rrr
+[02/Dec/2020:17:38:41] (server) topic: amm/commerciale messaggio: rrr
+[02/Dec/2020:17:39:26] (server) topic: amm/commerciale messaggio: 
+[02/Dec/2020:17:39:28] (server) topic: amm/commerciale messaggio: rrr
+[02/Dec/2020:22:42:19] (server) topic: amm/vendite messaggio: effettuato nuovo ordine

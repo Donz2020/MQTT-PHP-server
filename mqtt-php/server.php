@@ -1,10 +1,7 @@
 <?php
 
 include('../mqtt-php/lib/Logging.php');
-
-require('../mqtt-php/lib/connectionLog.php');
-
-
+include('../mqtt-php/lib/connectionLog.php');
 //require('../mqtt-php/lib/phpMQTT.php');
 
 
@@ -14,10 +11,18 @@ $username = 'test';
 $password = 'test';
 $client_id = 'phpMQTT-server';
 $cafile = '../mqtt-php/certs/ca.crt';
+$message = "Starting...";
+
+$mqtt = new connectionLog($server,$port,$client_id,$cafile);
+$mqtt->_debugMessage($message);
+
+$rp = new ReflectionProperty('connectionLog', '_debugMessage');
+$rp->setAccessible(true);
+echo $rp->getValue();
 
 
-$mqtt = new phpMQTT($server, $port, $client_id, $cafile);
-$mqtt->debug = true;
+//$log = new connectionLog();
+//$log->_debugMessage();
 
 
 //$log = new connectionLog($server, $port, $client_id, $cafile);
@@ -55,8 +60,20 @@ function logger($topic, $msg)
 
     $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
     $log->lclose();
+
 }
 
+/*
+function help(): void
+{
+    printf("Normal scan: ./find --word|-w -- path|-p \n");
+    printf("Report Generation: ./find -- word|-w  -- path|-p  --output|-o \n");
+    printf("File ignore: -- exclude|-e  (For more exclusion syntax: -e txt_pdf\n");
+    printf("Verbose: -- verbose|-v\n");
+    printf("Report's Analysis: ./find -- report  -- show  (if n omitted, n = 1)\n");
+    printf("Print all locations where the word  occurs in the  file:\nfind -- report|-r  -- show  -- file <path/to/file>\n");
+}
+*/
 
 
 /*
