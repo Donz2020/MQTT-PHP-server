@@ -7,7 +7,7 @@ class connectionLog extends phpMQTT
 
 {
 
-    public function _debugMessage(string $message): void
+    protected function _debugMessage(string $message): void
     {
         echo date('r: ') . $message . PHP_EOL;
         $var = date('r: ') . $message . PHP_EOL;
