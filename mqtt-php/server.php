@@ -11,14 +11,10 @@ $username = 'test';
 $password = 'test';
 $client_id = 'phpMQTT-server';
 $cafile = '../mqtt-php/certs/ca.crt';
-$message = "Starting...";
+
 
 $mqtt = new connectionLog($server,$port,$client_id,$cafile);
-$mqtt->_debugMessage($message);
 
-$rp = new ReflectionProperty('connectionLog', '_debugMessage');
-$rp->setAccessible(true);
-echo $rp->getValue();
 
 
 //$log = new connectionLog();
