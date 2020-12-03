@@ -655,8 +655,6 @@ class phpMQTT
     {
         if ($this->debug === true) {
             echo date('r: ') . $message . PHP_EOL;
-
-
         }
     }
 

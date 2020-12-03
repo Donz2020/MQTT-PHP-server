@@ -1,7 +1,7 @@
 <?php
 
 
-include(__DIR__.'/phpMQTT.php');
+include(__DIR__ . '/phpMQTT.php');
 
 class connectionLog extends phpMQTT
 

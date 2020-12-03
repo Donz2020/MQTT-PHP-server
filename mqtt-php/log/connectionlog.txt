@@ -8,3 +8,716 @@ Thu, 03 Dec 2020 16:03:29 +0100: not had something in a while so ping
 Thu, 03 Dec 2020 16:03:29 +0100: ping sent
 Thu, 03 Dec 2020 16:03:29 +0100: Received CMD: 13 (PINGRESP)
 Thu, 03 Dec 2020 16:03:29 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:03:40 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:03:40 +0100: ping sent
+Thu, 03 Dec 2020 16:03:40 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:03:40 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:03:51 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:03:51 +0100: ping sent
+Thu, 03 Dec 2020 16:03:51 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:03:51 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:04:02 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:04:02 +0100: ping sent
+Thu, 03 Dec 2020 16:04:02 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:04:02 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:04:13 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:04:13 +0100: ping sent
+Thu, 03 Dec 2020 16:04:13 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:04:13 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:04:24 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:04:24 +0100: ping sent
+Thu, 03 Dec 2020 16:04:24 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:04:24 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:04:35 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:04:35 +0100: ping sent
+Thu, 03 Dec 2020 16:04:35 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:04:35 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:04:46 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:04:46 +0100: ping sent
+Thu, 03 Dec 2020 16:04:46 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:04:46 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:04:57 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:04:57 +0100: ping sent
+Thu, 03 Dec 2020 16:04:57 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:04:57 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:05:08 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:05:08 +0100: ping sent
+Thu, 03 Dec 2020 16:05:08 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:05:08 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:05:19 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:05:19 +0100: ping sent
+Thu, 03 Dec 2020 16:05:19 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:05:19 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:05:30 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:05:30 +0100: ping sent
+Thu, 03 Dec 2020 16:05:30 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:05:30 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:05:41 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:05:41 +0100: ping sent
+Thu, 03 Dec 2020 16:05:41 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:05:41 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:05:52 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:05:52 +0100: ping sent
+Thu, 03 Dec 2020 16:05:52 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:05:52 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:06:03 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:06:03 +0100: ping sent
+Thu, 03 Dec 2020 16:06:03 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:06:03 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:06:14 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:06:14 +0100: ping sent
+Thu, 03 Dec 2020 16:06:14 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:06:14 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:06:25 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:06:25 +0100: ping sent
+Thu, 03 Dec 2020 16:06:25 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:06:25 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:06:36 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:06:36 +0100: ping sent
+Thu, 03 Dec 2020 16:06:36 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:06:36 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:06:47 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:06:47 +0100: ping sent
+Thu, 03 Dec 2020 16:06:47 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:06:47 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:06:58 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:06:58 +0100: ping sent
+Thu, 03 Dec 2020 16:06:58 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:06:58 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:07:09 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:07:09 +0100: ping sent
+Thu, 03 Dec 2020 16:07:09 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:07:09 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:07:20 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:07:20 +0100: ping sent
+Thu, 03 Dec 2020 16:07:20 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:07:20 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:07:31 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:07:31 +0100: ping sent
+Thu, 03 Dec 2020 16:07:31 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:07:31 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:07:42 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:07:42 +0100: ping sent
+Thu, 03 Dec 2020 16:07:42 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:07:42 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:07:53 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:07:53 +0100: ping sent
+Thu, 03 Dec 2020 16:07:53 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:07:53 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:08:04 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:08:04 +0100: ping sent
+Thu, 03 Dec 2020 16:08:04 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:08:04 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:08:15 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:08:15 +0100: ping sent
+Thu, 03 Dec 2020 16:08:15 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:08:15 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:08:26 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:08:26 +0100: ping sent
+Thu, 03 Dec 2020 16:08:26 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:08:26 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:08:37 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:08:37 +0100: ping sent
+Thu, 03 Dec 2020 16:08:37 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:08:37 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:08:48 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:08:48 +0100: ping sent
+Thu, 03 Dec 2020 16:08:48 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:08:48 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:08:59 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:08:59 +0100: ping sent
+Thu, 03 Dec 2020 16:08:59 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:08:59 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:09:10 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:09:10 +0100: ping sent
+Thu, 03 Dec 2020 16:09:10 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:09:10 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:09:21 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:09:21 +0100: ping sent
+Thu, 03 Dec 2020 16:09:21 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:09:21 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:09:32 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:09:32 +0100: ping sent
+Thu, 03 Dec 2020 16:09:32 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:09:32 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:09:43 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:09:43 +0100: ping sent
+Thu, 03 Dec 2020 16:09:43 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:09:43 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:09:54 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:09:54 +0100: ping sent
+Thu, 03 Dec 2020 16:09:54 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:09:54 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:10:05 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:10:05 +0100: ping sent
+Thu, 03 Dec 2020 16:10:05 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:10:05 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:10:16 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:10:16 +0100: ping sent
+Thu, 03 Dec 2020 16:10:16 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:10:16 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:10:27 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:10:27 +0100: ping sent
+Thu, 03 Dec 2020 16:10:27 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:10:27 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:10:38 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:10:38 +0100: ping sent
+Thu, 03 Dec 2020 16:10:38 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:10:38 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:10:49 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:10:49 +0100: ping sent
+Thu, 03 Dec 2020 16:10:49 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:10:49 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:11:00 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:11:00 +0100: ping sent
+Thu, 03 Dec 2020 16:11:00 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:11:00 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:11:11 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:11:11 +0100: ping sent
+Thu, 03 Dec 2020 16:11:11 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:11:11 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:11:22 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:11:22 +0100: ping sent
+Thu, 03 Dec 2020 16:11:22 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:11:22 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:11:33 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:11:33 +0100: ping sent
+Thu, 03 Dec 2020 16:11:33 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:11:33 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:11:44 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:11:44 +0100: ping sent
+Thu, 03 Dec 2020 16:11:44 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:11:44 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:11:55 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:11:55 +0100: ping sent
+Thu, 03 Dec 2020 16:11:55 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:11:55 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:12:06 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:12:06 +0100: ping sent
+Thu, 03 Dec 2020 16:12:06 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:12:06 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:12:17 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:12:17 +0100: ping sent
+Thu, 03 Dec 2020 16:12:17 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:12:17 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:12:28 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:12:28 +0100: ping sent
+Thu, 03 Dec 2020 16:12:28 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:12:28 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:12:39 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:12:39 +0100: ping sent
+Thu, 03 Dec 2020 16:12:39 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:12:39 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:12:50 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:12:50 +0100: ping sent
+Thu, 03 Dec 2020 16:12:50 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:12:50 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:13:01 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:13:01 +0100: ping sent
+Thu, 03 Dec 2020 16:13:01 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:13:01 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:13:12 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:13:12 +0100: ping sent
+Thu, 03 Dec 2020 16:13:12 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:13:12 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:13:23 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:13:23 +0100: ping sent
+Thu, 03 Dec 2020 16:13:23 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:13:23 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:13:34 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:13:34 +0100: ping sent
+Thu, 03 Dec 2020 16:13:34 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:13:34 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:13:45 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:13:45 +0100: ping sent
+Thu, 03 Dec 2020 16:13:45 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:13:45 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:13:56 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:13:56 +0100: ping sent
+Thu, 03 Dec 2020 16:13:56 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:13:56 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:14:07 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:14:07 +0100: ping sent
+Thu, 03 Dec 2020 16:14:07 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:14:07 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:14:18 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:14:18 +0100: ping sent
+Thu, 03 Dec 2020 16:14:18 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:14:18 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:14:29 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:14:29 +0100: ping sent
+Thu, 03 Dec 2020 16:14:29 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:14:29 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:14:40 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:14:40 +0100: ping sent
+Thu, 03 Dec 2020 16:14:40 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:14:40 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:14:51 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:14:51 +0100: ping sent
+Thu, 03 Dec 2020 16:14:51 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:14:51 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:15:02 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:15:02 +0100: ping sent
+Thu, 03 Dec 2020 16:15:02 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:15:02 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:15:13 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:15:13 +0100: ping sent
+Thu, 03 Dec 2020 16:15:13 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:15:13 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:15:24 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:15:24 +0100: ping sent
+Thu, 03 Dec 2020 16:15:24 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:15:24 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:15:35 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:15:35 +0100: ping sent
+Thu, 03 Dec 2020 16:15:35 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:15:35 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:15:46 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:15:46 +0100: ping sent
+Thu, 03 Dec 2020 16:15:46 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:15:46 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:15:57 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:15:57 +0100: ping sent
+Thu, 03 Dec 2020 16:15:57 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:15:57 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:16:08 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:16:08 +0100: ping sent
+Thu, 03 Dec 2020 16:16:08 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:16:08 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:16:19 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:16:19 +0100: ping sent
+Thu, 03 Dec 2020 16:16:19 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:16:19 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:16:30 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:16:30 +0100: ping sent
+Thu, 03 Dec 2020 16:16:30 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:16:30 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:16:41 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:16:41 +0100: ping sent
+Thu, 03 Dec 2020 16:16:41 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:16:41 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:16:52 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:16:52 +0100: ping sent
+Thu, 03 Dec 2020 16:16:52 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:16:52 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:17:03 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:17:03 +0100: ping sent
+Thu, 03 Dec 2020 16:17:03 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:17:03 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:17:14 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:17:14 +0100: ping sent
+Thu, 03 Dec 2020 16:17:14 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:17:14 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:17:25 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:17:25 +0100: ping sent
+Thu, 03 Dec 2020 16:17:25 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:17:25 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:17:36 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:17:36 +0100: ping sent
+Thu, 03 Dec 2020 16:17:36 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:17:36 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:17:47 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:17:47 +0100: ping sent
+Thu, 03 Dec 2020 16:17:47 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:17:47 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:17:58 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:17:58 +0100: ping sent
+Thu, 03 Dec 2020 16:17:58 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:17:58 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:18:09 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:18:09 +0100: ping sent
+Thu, 03 Dec 2020 16:18:09 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:18:09 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:18:20 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:18:20 +0100: ping sent
+Thu, 03 Dec 2020 16:18:20 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:18:20 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:18:31 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:18:31 +0100: ping sent
+Thu, 03 Dec 2020 16:18:31 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:18:31 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:18:42 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:18:42 +0100: ping sent
+Thu, 03 Dec 2020 16:18:42 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:18:42 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:18:53 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:18:53 +0100: ping sent
+Thu, 03 Dec 2020 16:18:53 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:18:53 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:19:04 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:19:04 +0100: ping sent
+Thu, 03 Dec 2020 16:19:04 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:19:04 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:19:15 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:19:15 +0100: ping sent
+Thu, 03 Dec 2020 16:19:15 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:19:15 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:19:26 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:19:26 +0100: ping sent
+Thu, 03 Dec 2020 16:19:26 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:19:26 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:19:37 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:19:37 +0100: ping sent
+Thu, 03 Dec 2020 16:19:37 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:19:37 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:19:48 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:19:48 +0100: ping sent
+Thu, 03 Dec 2020 16:19:48 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:19:48 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:19:59 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:19:59 +0100: ping sent
+Thu, 03 Dec 2020 16:19:59 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:19:59 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:20:10 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:20:10 +0100: ping sent
+Thu, 03 Dec 2020 16:20:10 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:20:10 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:20:21 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:20:21 +0100: ping sent
+Thu, 03 Dec 2020 16:20:21 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:20:21 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:20:32 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:20:32 +0100: ping sent
+Thu, 03 Dec 2020 16:20:32 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:20:32 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:20:43 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:20:43 +0100: ping sent
+Thu, 03 Dec 2020 16:20:43 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:20:43 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:20:54 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:20:54 +0100: ping sent
+Thu, 03 Dec 2020 16:20:54 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:20:54 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:21:05 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:21:05 +0100: ping sent
+Thu, 03 Dec 2020 16:21:05 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:21:05 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:21:16 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:21:16 +0100: ping sent
+Thu, 03 Dec 2020 16:21:16 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:21:16 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:21:27 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:21:27 +0100: ping sent
+Thu, 03 Dec 2020 16:21:27 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:21:27 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:21:38 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:21:38 +0100: ping sent
+Thu, 03 Dec 2020 16:21:38 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:21:38 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:21:49 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:21:49 +0100: ping sent
+Thu, 03 Dec 2020 16:21:49 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:21:49 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:22:00 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:22:00 +0100: ping sent
+Thu, 03 Dec 2020 16:22:00 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:22:00 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:22:11 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:22:11 +0100: ping sent
+Thu, 03 Dec 2020 16:22:11 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:22:11 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:22:22 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:22:22 +0100: ping sent
+Thu, 03 Dec 2020 16:22:22 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:22:22 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:22:33 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:22:33 +0100: ping sent
+Thu, 03 Dec 2020 16:22:33 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:22:33 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:22:44 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:22:44 +0100: ping sent
+Thu, 03 Dec 2020 16:22:44 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:22:44 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:22:55 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:22:55 +0100: ping sent
+Thu, 03 Dec 2020 16:22:55 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:22:55 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:23:06 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:23:06 +0100: ping sent
+Thu, 03 Dec 2020 16:23:06 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:23:06 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:23:17 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:23:17 +0100: ping sent
+Thu, 03 Dec 2020 16:23:17 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:23:17 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:23:28 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:23:28 +0100: ping sent
+Thu, 03 Dec 2020 16:23:28 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:23:28 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:23:39 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:23:39 +0100: ping sent
+Thu, 03 Dec 2020 16:23:39 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:23:39 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:23:50 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:23:50 +0100: ping sent
+Thu, 03 Dec 2020 16:23:50 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:23:50 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:24:01 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:24:01 +0100: ping sent
+Thu, 03 Dec 2020 16:24:01 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:24:01 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:24:12 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:24:12 +0100: ping sent
+Thu, 03 Dec 2020 16:24:12 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:24:12 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:24:23 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:24:23 +0100: ping sent
+Thu, 03 Dec 2020 16:24:23 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:24:23 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:24:34 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:24:34 +0100: ping sent
+Thu, 03 Dec 2020 16:24:34 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:24:34 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:24:45 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:24:45 +0100: ping sent
+Thu, 03 Dec 2020 16:24:45 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:24:45 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:24:56 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:24:56 +0100: ping sent
+Thu, 03 Dec 2020 16:24:56 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:24:56 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:25:07 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:25:07 +0100: ping sent
+Thu, 03 Dec 2020 16:25:07 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:25:07 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:25:18 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:25:18 +0100: ping sent
+Thu, 03 Dec 2020 16:25:18 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:25:18 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:25:29 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:25:29 +0100: ping sent
+Thu, 03 Dec 2020 16:25:29 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:25:29 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:25:40 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:25:40 +0100: ping sent
+Thu, 03 Dec 2020 16:25:40 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:25:40 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:25:51 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:25:51 +0100: ping sent
+Thu, 03 Dec 2020 16:25:51 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:25:51 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:26:02 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:26:02 +0100: ping sent
+Thu, 03 Dec 2020 16:26:02 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:26:02 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:26:13 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:26:13 +0100: ping sent
+Thu, 03 Dec 2020 16:26:13 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:26:13 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:26:24 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:26:24 +0100: ping sent
+Thu, 03 Dec 2020 16:26:24 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:26:24 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:26:35 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:26:35 +0100: ping sent
+Thu, 03 Dec 2020 16:26:35 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:26:35 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:26:46 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:26:46 +0100: ping sent
+Thu, 03 Dec 2020 16:26:46 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:26:46 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:26:57 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:26:57 +0100: ping sent
+Thu, 03 Dec 2020 16:26:57 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:26:57 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:27:08 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:27:08 +0100: ping sent
+Thu, 03 Dec 2020 16:27:08 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:27:08 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:27:19 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:27:19 +0100: ping sent
+Thu, 03 Dec 2020 16:27:19 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:27:19 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:27:30 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:27:30 +0100: ping sent
+Thu, 03 Dec 2020 16:27:30 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:27:30 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:27:41 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:27:41 +0100: ping sent
+Thu, 03 Dec 2020 16:27:41 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:27:41 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:27:52 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:27:52 +0100: ping sent
+Thu, 03 Dec 2020 16:27:52 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:27:52 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:28:03 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:28:03 +0100: ping sent
+Thu, 03 Dec 2020 16:28:03 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:28:03 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:28:14 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:28:14 +0100: ping sent
+Thu, 03 Dec 2020 16:28:14 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:28:14 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:28:25 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:28:25 +0100: ping sent
+Thu, 03 Dec 2020 16:28:25 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:28:25 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:28:36 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:28:36 +0100: ping sent
+Thu, 03 Dec 2020 16:28:36 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:28:36 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:28:47 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:28:47 +0100: ping sent
+Thu, 03 Dec 2020 16:28:47 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:28:47 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:28:58 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:28:58 +0100: ping sent
+Thu, 03 Dec 2020 16:28:58 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:28:58 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:29:09 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:29:09 +0100: ping sent
+Thu, 03 Dec 2020 16:29:09 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:29:09 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:29:20 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:29:20 +0100: ping sent
+Thu, 03 Dec 2020 16:29:20 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:29:20 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:29:31 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:29:31 +0100: ping sent
+Thu, 03 Dec 2020 16:29:31 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:29:31 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:29:42 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:29:42 +0100: ping sent
+Thu, 03 Dec 2020 16:29:42 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:29:42 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:29:53 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:29:53 +0100: ping sent
+Thu, 03 Dec 2020 16:29:53 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:29:53 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:30:04 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:30:04 +0100: ping sent
+Thu, 03 Dec 2020 16:30:04 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:30:04 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:30:15 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:30:15 +0100: ping sent
+Thu, 03 Dec 2020 16:30:15 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:30:15 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:30:26 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:30:26 +0100: ping sent
+Thu, 03 Dec 2020 16:30:26 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:30:26 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:30:37 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:30:37 +0100: ping sent
+Thu, 03 Dec 2020 16:30:37 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:30:37 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:30:48 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:30:48 +0100: ping sent
+Thu, 03 Dec 2020 16:30:48 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:30:48 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:30:59 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:30:59 +0100: ping sent
+Thu, 03 Dec 2020 16:30:59 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:30:59 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:31:10 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:31:10 +0100: ping sent
+Thu, 03 Dec 2020 16:31:10 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:31:10 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:31:21 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:31:21 +0100: ping sent
+Thu, 03 Dec 2020 16:31:21 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:31:21 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:31:32 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:31:32 +0100: ping sent
+Thu, 03 Dec 2020 16:31:32 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:31:32 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:31:43 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:31:43 +0100: ping sent
+Thu, 03 Dec 2020 16:31:43 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:31:43 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:31:54 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:31:54 +0100: ping sent
+Thu, 03 Dec 2020 16:31:54 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:31:54 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:32:05 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:32:05 +0100: ping sent
+Thu, 03 Dec 2020 16:32:05 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:32:05 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:32:16 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:32:16 +0100: ping sent
+Thu, 03 Dec 2020 16:32:16 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:32:16 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:32:27 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:32:27 +0100: ping sent
+Thu, 03 Dec 2020 16:32:27 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:32:27 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:32:38 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:32:38 +0100: ping sent
+Thu, 03 Dec 2020 16:32:38 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:32:38 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:32:49 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:32:49 +0100: ping sent
+Thu, 03 Dec 2020 16:32:49 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:32:49 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:33:00 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:33:00 +0100: ping sent
+Thu, 03 Dec 2020 16:33:00 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:33:00 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:33:11 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:33:11 +0100: ping sent
+Thu, 03 Dec 2020 16:33:11 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:33:11 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:33:22 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:33:22 +0100: ping sent
+Thu, 03 Dec 2020 16:33:22 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:33:22 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:33:33 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:33:33 +0100: ping sent
+Thu, 03 Dec 2020 16:33:33 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:33:33 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:33:44 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:33:44 +0100: ping sent
+Thu, 03 Dec 2020 16:33:44 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:33:44 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:33:55 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:33:55 +0100: ping sent
+Thu, 03 Dec 2020 16:33:55 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:33:55 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:34:06 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:34:06 +0100: ping sent
+Thu, 03 Dec 2020 16:34:06 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:34:06 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:34:17 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:34:17 +0100: ping sent
+Thu, 03 Dec 2020 16:34:17 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:34:17 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:34:28 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:34:28 +0100: ping sent
+Thu, 03 Dec 2020 16:34:28 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:34:28 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:34:39 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:34:39 +0100: ping sent
+Thu, 03 Dec 2020 16:34:39 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:34:39 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:34:50 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:34:50 +0100: ping sent
+Thu, 03 Dec 2020 16:34:50 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:34:50 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:35:01 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:35:01 +0100: ping sent
+Thu, 03 Dec 2020 16:35:01 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:35:01 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:35:12 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:35:12 +0100: ping sent
+Thu, 03 Dec 2020 16:35:12 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:35:12 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:35:23 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:35:23 +0100: ping sent
+Thu, 03 Dec 2020 16:35:23 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:35:23 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:35:34 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:35:34 +0100: ping sent
+Thu, 03 Dec 2020 16:35:34 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:35:34 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:35:45 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:35:45 +0100: ping sent
+Thu, 03 Dec 2020 16:35:45 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:35:45 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:35:56 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:35:56 +0100: ping sent
+Thu, 03 Dec 2020 16:35:56 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:35:56 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:36:07 +0100: not had something in a while so ping
+Thu, 03 Dec 2020 16:36:07 +0100: ping sent
+Thu, 03 Dec 2020 16:36:07 +0100: Received CMD: 13 (PINGRESP)
+Thu, 03 Dec 2020 16:36:07 +0100: Fetching: 0 bytes
+Thu, 03 Dec 2020 16:36:17 +0100: Connected to Broker
