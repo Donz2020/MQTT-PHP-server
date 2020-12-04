@@ -35,7 +35,7 @@ $mqtt->close();
 function logger($topic, $msg)
 {
     $log = new Logging();
-
+    $log->lfile('../mqtt-php/log/logfile.txt');
     $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
     $log->lclose();
 

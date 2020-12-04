@@ -125,3 +125,15 @@
 [02/Dec/2020:17:39:26] (server) topic: amm/commerciale messaggio: 
 [02/Dec/2020:17:39:28] (server) topic: amm/commerciale messaggio: rrr
 [02/Dec/2020:22:42:19] (server) topic: amm/vendite messaggio: effettuato nuovo ordine
+[04/Dec/2020:09:14:15] (server) topic: amm/vendite messaggio: ciao ciao
+[04/Dec/2020:09:14:16] (server) topic: home/garden/fountain messaggio: ON
+[04/Dec/2020:09:14:17] (server) topic: home/garden/fountain messaggio: OFF
+[04/Dec/2020:09:19:51] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:19:51] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:20:40] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:20:40] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:20:40] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:20:40] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:20:40] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:20:41] (server) topic: amm/commerciale messaggio: OFF
+[04/Dec/2020:09:20:41] (server) topic: amm/commerciale messaggio: OFF
