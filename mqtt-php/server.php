@@ -5,15 +5,55 @@ include('../mqtt-php/lib/connectionLog.php');
 //require('../mqtt-php/lib/phpMQTT.php');
 
 
-$server = 'localhost';  //todo fare con this->
-$port = 8883;
+//$server = readline("Enter server address:");  //todo fare con $this->server = $server per passare argomenti dalla cli
+//$port = 8883;
 $username = 'test';
 $password = 'test';
 $client_id = 'phpMQTT-server';
 $cafile = '../mqtt-php/certs/ca.crt';
 
 
-$mqtt = new connectionLog($server, $port, $client_id, $cafile);
+$shortopts = "";
+$shortopts .= "s:";  // Required value   //todo per connect al server con indirizzo e porta
+$shortopts .= "l::"; // Optional value  //todo per impostare path file di log
+$shortopts .= "d:";                     //todo per impostare connessione al db prendendo i dati di auth dalla tabella
+$shortopts .= "abc"; // These options do not accept values
+
+
+$longopts = array(
+    "server:",     // Required value
+    "log::",    // Optional value
+    "database:",        // No value
+    "opt",           // No value
+);
+
+
+$options = getopt($shortopts, $longopts);
+print_r(array_values($options));
+
+
+
+
+$separe = implode($options);    //converto in stringa
+
+$pieces = explode(":", $separe);   //separo la stringa usando  :
+
+
+$input_array=array_chunk($pieces,2,true);    //separo in due sottoarray
+
+print_r(array_values($input_array));  //stampo solo per vedere la struttura
+
+$server = $input_array[0][0];    //converto in stringa
+
+$port = $input_array[0][1];
+
+
+
+
+//$mqtt = new connectionLog($server ,$port, $client_id, $cafile);
+
+
+$mqtt = new connectionLog($options["server"],$port ,$client_id, $cafile);
 
 
 if (!$mqtt->connect(true, NULL, $username, $password)) {
@@ -35,7 +75,8 @@ $mqtt->close();
 function logger($topic, $msg)
 {
     $log = new Logging();
-    $log->lfile('../mqtt-php/log/logfile.txt');
+    $logpath = '../mqtt-php/log/logfile.txt';  //todo var del log a scelta come parametro cli
+    $log->lfile($logpath);
     $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
     $log->lclose();
 
