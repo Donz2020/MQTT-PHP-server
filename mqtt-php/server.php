@@ -33,7 +33,6 @@ $longopts = array(
 
 
 $options = getopt($shortopts, $longopts);
-
 print_r(array_values($options));
 
 
@@ -83,4 +82,4 @@ function logger($topic, $msg)
     $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
     $log->lclose();
 
-}
+} //todo sistemare in logging ,l'indirizzo del server

@@ -22,8 +22,8 @@ class connectionLog extends phpMQTT
 
         echo date('r: ') . $message . PHP_EOL;
         $var = date('r: ') . $message . PHP_EOL;
-        $path = $this->logfile;
-        $myfile = fopen("D:/progetti_stage/mqtt-php/log/" .$path, "a") or die("Unable to open file!");
+        $filename = $this->logfile;
+        $myfile = fopen("D:/progetti_stage/mqtt-php/log/" .$filename, "a") or die("Unable to open file!");
         fwrite($myfile, $var);
         fclose($myfile);
 
