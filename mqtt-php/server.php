@@ -56,7 +56,7 @@ $port = $input_array[0][1];
 
 
 
-$mqtt = new connectionLog($options["server"], $port, $client_id, $cafile, $options["logfile"  [1]], $options["user"], $options["pass"],$options["database"]);   //todo aggiungere comandi dal broker
+$mqtt = new connectionLog($options["server"], $port, $client_id, $cafile, $options["logfile"], $options["user"], $options["pass"],$options["database"]);   //todo aggiungere comandi dal broker
 
 
 if (!$mqtt->connect(true, NULL, $options["user"], $options["pass"])) {
