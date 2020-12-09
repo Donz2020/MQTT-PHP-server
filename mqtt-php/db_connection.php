@@ -16,3 +16,14 @@ if ($connection->connect_error) {
 
 
 
+//-----------------
+
+
+$connection_string = 'DRIVER={SQL Server};SERVER=<servername>;DATABASE=<databasename>';
+
+$user = 'username';
+$pass = 'password';
+
+$connection = odbc_connect($connection_string, $user, $pass);
+
+

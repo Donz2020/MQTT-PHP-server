@@ -5,27 +5,21 @@ include(__DIR__ . '/phpMQTT.php');
 class connectionLog extends phpMQTT
 
 {
-
-
-    public function __construct($address, $port, $clientid, $cafile = null)
+    public function __construct($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database = null)
     {
-
-
-        $this->broker($address, $port, $clientid, $cafile);
+        $this->broker($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database);
+        $this->logfile = $logfile;
+        $this->user = $user;
+        $this->pass = $pass;
+        $this->database = $database;
     }
 
-    public function broker($address, $port, $clientid, $cafile = null): void
-    {
 
 
-        $this->address = $address;
-        $this->port = $port;
-        $this->clientid = $clientid;
-        $this->cafile = $cafile;
-    }
 
     protected function _debugMessage(string $message): void
     {
+
         echo date('r: ') . $message . PHP_EOL;
         $var = date('r: ') . $message . PHP_EOL;
         $myfile = fopen("D:\progetti_stage\mqtt-php\log\connectionlog.txt", "a") or die("Unable to open file!");
