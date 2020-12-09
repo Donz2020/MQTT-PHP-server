@@ -1,0 +1,21 @@
+-- DROP TABLE tx_mqttlog
+-- ;
+CREATE TABLE tx_mqttlog (
+  TX_L_SERIAL int identity not null,
+  TX_DATA int not null,
+  TX_ORA int not null,
+  TX_C_SERVER varchar(64) not null,
+  TOPIC VARCHAR(255) not null,
+  REPARTO VARCHAR(4),
+  UTENTE VARCHAR(15),
+  MESSAGGIO VARCHAR(8000) not null,
+  F_LETTO SMALLINT not null,
+  F_ANNULLATO SMALLINT not null
+ )
+;
+
+CREATE UNIQUE CLUSTERED INDEX tx_mqttlog_ix0  on tx_mqttlog (TX_L_SERIAL)
+;
+
+
+
