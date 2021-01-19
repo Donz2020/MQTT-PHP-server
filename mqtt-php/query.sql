@@ -196,3 +196,6 @@ SELECT CONVERT(INT, GETDATE());
 SELECT cast(SYSDATETIME()as int) ;
 
 select cast(GETDATE()as int);
+
+
+

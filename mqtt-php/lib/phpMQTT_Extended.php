@@ -6,6 +6,10 @@ class phpMQTT_Extended extends phpMQTT
 
 {
 
+    public $topic;
+    public $msg;
+
+
     public function __construct($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database = null)
     {
         $this->broker($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database);
@@ -14,6 +18,7 @@ class phpMQTT_Extended extends phpMQTT
         $this->pass = $pass;
         $this->database = $database;
         $this->address = $address;
+        
         //echo $database;
     }
 
@@ -32,21 +37,29 @@ class phpMQTT_Extended extends phpMQTT
     function fint_libDMF_aammgg2N($sYear, $sMonth, $sDay)
     {
         $timestamp = mktime(0, 0, 0, $sMonth, $sDay, $sYear);
-        echo "timestamp :" . $timestamp;
+        //echo "timestamp :" . $timestamp;
         $lData = ($timestamp / 86400) +  719529;
         //$GLOBALS['sHlibMath']->fbool_libMATH_Arrotonda($lData, 1, LIBMATH_ARROT_INTERO, LIBMATH_ARROT_GIUSTO);
         return ($lData);
     }
 
+    function fint_libDMF_hhmmss2N($sHour, $sMinute, $sSecond)
+    {
+        $lOra = ($sHour * 3600) + ($sMinute * 60) + $sSecond + 1;
+        return ($lOra);
+    }
+
+    
     public function logger($topic, $msg)
     {
         $log = new Logging_Extended();
-        
+
         $address = $this->address;
         $logpath = '../mqtt-php/log/messageLog.txt';
         $log->lfile($logpath);
         $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg, $address);
         $log->lclose();
+
 
         $arrMsg = array($topic, $msg);
         print_r(array_values($arrMsg));
@@ -54,24 +67,34 @@ class phpMQTT_Extended extends phpMQTT
 
         $val = $this->extractIpAddress();
         print ($val) . "\n";
-        
 
-        $val2 = array($this->getDate(),$this->getTime());
+
+        $val2 = array($this->getGiorni(), $this->getSecondi());
         print_r(array_values($val2)) . "\n";
 
         return $arrMsg;
     }
 
-    public function getDate(){
-        $date = @date('d/m/y');
-        //print($date);
-        return $date;
+    public function getGiorni()
+    {
+        $year = @date('y');
+        $month =  @date('m');
+        $day =  @date('d');
+
+        $giorni = $this->fint_libDMF_aammgg2N($year, $month, $day);
+
+        return $giorni;
     }
 
-    public function getTime(){
-        $time = @date('H:i:s');
-        //print($time);
-        return $time;
+    public function getSecondi()
+    {
+        $hour = @date('H');
+        $minute = @date('i');
+        $second = @date('s');
+
+        $secondi = $this->fint_libDMF_hhmmss2N($hour, $minute, $second);
+
+        return $secondi;
     }
 
     public function extractIpAddress()
@@ -80,7 +103,6 @@ class phpMQTT_Extended extends phpMQTT
         return $address;
     }
 
-    
 
     public function message($msg)
     {
@@ -117,7 +139,6 @@ class phpMQTT_Extended extends phpMQTT
 
                     //call_user_func($top['function'], $topic, $msg);
                 }
-                
             } else {
                 $this->_errorMessage('Message received on topic ' . $topic . ' but function is not callable.');
             }
@@ -128,6 +149,8 @@ class phpMQTT_Extended extends phpMQTT
             $this->_debugMessage('msg received but no match in subscriptions');
         }
 
+        echo $msg;
+        echo $topic;
         return $found;
     }
 
@@ -163,7 +186,7 @@ class phpMQTT_Extended extends phpMQTT
         $query = 'INSERT INTO tx_mqttlog (TX_DATA,TX_ORA,TX_C_SERVER,TOPIC,MESSAGGIO,F_LETTO,F_ANNULLATO)
         VALUES(?,?,?,?,?,?,?);';
 
-        $data = ['12122020', '150322', $this->extractIpAddress(), 'amm/commerciale', 'nuovabolla2', '0', '0'];
+        $data = [$this->getGiorni(), $this->getSecondi(), $this->extractIpAddress(), 'amm/commerciale', 'nuovabolla2', '0', '0'];
 
         //$data = ['$data', '$ora', '$server', '$topic', '$messaggio', '$letto', '$annullato'];
 
@@ -194,5 +217,6 @@ class phpMQTT_Extended extends phpMQTT
         $close = odbc_close($connection);
         echo "connessione chiusa DB\n";
         $this->_debugMessage("Disconnected from DB");
+        return $close;
     }
 }
