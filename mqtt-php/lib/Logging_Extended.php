@@ -33,8 +33,8 @@ class Logging_Extended extends Logging
         $date = @date('d/m/y');
         $time = @date('H:i:s');
 
-        echo $date."\n";
-        echo $time."\n";
+        //echo $date."\n";
+        //echo $time."\n";
 
         // write current time, script name and message to the log file
         fwrite($this->fp, "$date $time ($address) $topic $message" . PHP_EOL);

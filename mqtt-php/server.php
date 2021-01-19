@@ -64,6 +64,10 @@ $port = $input_array[0][1];
 
 $mqtt = new phpMQTT_Extended($server, $port, $client_id, $cafile, $options["logfile"], $options["user"], $options["pass"], $options["database"]);
 
+
+//$mqtt->extractDateTime();
+
+
 if (isset($options["database"]) == FALSE) {
     print("non settata\n");
     //todo logger connessione
@@ -85,7 +89,6 @@ if (isset($options["database"]) == FALSE) {
         //$mqtt->logger($topic, $msg);
     }
 }
-
 
 /*
 if (isset($options["logfile"]) == FALSE) {

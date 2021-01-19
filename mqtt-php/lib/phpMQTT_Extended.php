@@ -36,7 +36,51 @@ class phpMQTT_Extended extends phpMQTT
         $log->lfile($logpath);
         $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg, $address);
         $log->lclose();
+
+        /*
+        $data = file($logpath);
+        $readLines = max(0, count($data) - 1);
+
+
+        if ($readLines > 0) {
+            for ($i = $readLines; $i < count($data);$i++) {
+                //echo $data[$i];
+                //$textperline = fgets($data[$i]);
+                $date = substr($data[$i], 0, -57);
+                $time = substr($data[$i], 9, -48);
+
+                $array = array($date,$time);
+                //print_r(array_values($array));
+
+                return $array;
+            }
+            //fclose($data);
+        }       
+        */
+        $val = $this->extractDateTime();
+        print_r($val);
     }
+
+
+    public function extractDateTime()
+    {
+        $path = "../mqtt-php/log/messageLog.txt";
+        $data = file($path);
+        $readLines = max(0, count($data) - 1);
+
+        if ($readLines > 0) {
+            for ($i = $readLines; $i < count($data); $i++) {
+
+                $date = substr($data[$i], 0, -57);
+                $time = substr($data[$i], 9, -48);
+
+                $array = array($date, $time);
+                //print_r(array_values($array));
+            }
+            return $array;
+        }
+    }
+
 
     public function message($msg)
     {
