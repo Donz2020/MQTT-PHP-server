@@ -28,10 +28,12 @@ class phpMQTT_Extended extends phpMQTT
 
     public function logger($topic, $msg)
     {
-        $log = new Logging();
-        $logpath = '../mqtt-php/log/logfile.txt';
+        $log = new Logging_Extended();
+        $log->server($server);
+
+        $logpath = '../mqtt-php/log/messageLog.txt';
         $log->lfile($logpath);
-        $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
+        $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg,$server);
         $log->lclose();
     }
 

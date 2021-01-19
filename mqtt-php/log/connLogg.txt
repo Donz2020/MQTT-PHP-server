@@ -1,0 +1,18 @@
+Mon, 11 Jan 2021 10:10:37 +0100: Connected to DB
+Mon, 11 Jan 2021 10:10:37 +0100: execute query to DB successful
+Mon, 11 Jan 2021 10:10:37 +0100: Connected to Broker
+Mon, 11 Jan 2021 10:40:13 +0100: Connected to DB
+Mon, 11 Jan 2021 10:40:13 +0100: execute query to DB successful
+Mon, 11 Jan 2021 10:40:13 +0100: Connected to Broker
+Mon, 11 Jan 2021 15:11:04 +0100: Connected to DB
+Mon, 11 Jan 2021 15:11:04 +0100: execute query to DB successful
+Mon, 11 Jan 2021 15:11:04 +0100: Connected to Broker
+Mon, 11 Jan 2021 15:11:07 +0100: Connected to DB
+Mon, 11 Jan 2021 15:11:07 +0100: execute query to DB successful
+Mon, 11 Jan 2021 15:11:07 +0100: Connected to Broker
+Mon, 11 Jan 2021 16:31:07 +0100: Connected to DB
+Mon, 11 Jan 2021 16:31:07 +0100: execute query to DB successful
+Mon, 11 Jan 2021 16:31:07 +0100: Connected to Broker
+Mon, 11 Jan 2021 17:31:00 +0100: Connected to DB
+Mon, 11 Jan 2021 17:31:00 +0100: execute query to DB successful
+Mon, 11 Jan 2021 17:31:00 +0100: Connected to Broker

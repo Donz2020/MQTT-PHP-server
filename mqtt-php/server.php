@@ -1,7 +1,9 @@
 <?php
 
-include('../mqtt-php/lib/Logging.php');
+//include('../mqtt-php/lib/Logging.php');
 include('../mqtt-php/lib/phpMQTT_Extended.php');
+include('../mqtt-php/lib/Logging_Extended.php');
+
 
 
 $client_id = 'phpMQTT-server';
@@ -49,6 +51,15 @@ $server = $input_array[0][0];
 $port = $input_array[0][1];
 
 //$database = $options["database"];
+
+
+global $server;
+
+$log = new Logging_Extended();
+$log->server($server);
+
+
+
 
 
 

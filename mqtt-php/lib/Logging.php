@@ -13,21 +13,7 @@ class Logging
     }
 
     // write message to the log file
-    public function lwrite($topic , $message)
-    {
-        // if file pointer doesn't exist, then open log file
-        if (!is_resource($this->fp)) {
-            $this->lopen();
-        }
-        // define script name
-        $script_name = pathinfo($_SERVER['PHP_SELF'], PATHINFO_FILENAME);
-        // define current time and suppress E_WARNING if using the system TZ settings
-        // (don't forget to set the INI setting date.timezone)
-        $time = @date('d/m/y H:i:s');
-        // write current time, script name and message to the log file
-        fwrite($this->fp, "$time ($script_name) $topic $message" . PHP_EOL);
-    }
-
+    
     // close log file (it's always a good idea to close a file when you're done with it)
     public function lclose()
     {
