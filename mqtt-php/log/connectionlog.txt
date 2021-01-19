@@ -2653,34 +2653,3 @@ Wed, 09 Dec 2020 15:53:59 +0100: not had something in a while so ping
 Wed, 09 Dec 2020 15:53:59 +0100: ping sent
 Wed, 09 Dec 2020 15:53:59 +0100: Received CMD: 13 (PINGRESP)
 Wed, 09 Dec 2020 15:53:59 +0100: Fetching: 0 bytes
-Wed, 09 Dec 2020 16:04:31 +0100: Connected to Broker
-Wed, 09 Dec 2020 16:19:11 +0100: Connected to Broker
-Wed, 09 Dec 2020 16:19:18 +0100: Connected to Broker
-Wed, 09 Dec 2020 16:19:29 +0100: not had something in a while so ping
-Wed, 09 Dec 2020 16:19:29 +0100: ping sent
-Wed, 09 Dec 2020 16:19:29 +0100: Received CMD: 13 (PINGRESP)
-Wed, 09 Dec 2020 16:19:29 +0100: Fetching: 0 bytes
-Wed, 09 Dec 2020 16:19:40 +0100: not had something in a while so ping
-Wed, 09 Dec 2020 16:19:40 +0100: ping sent
-Wed, 09 Dec 2020 16:19:40 +0100: Received CMD: 13 (PINGRESP)
-Wed, 09 Dec 2020 16:19:40 +0100: Fetching: 0 bytes
-Wed, 09 Dec 2020 16:19:51 +0100: not had something in a while so ping
-Wed, 09 Dec 2020 16:19:51 +0100: ping sent
-Wed, 09 Dec 2020 16:19:51 +0100: Received CMD: 13 (PINGRESP)
-Wed, 09 Dec 2020 16:19:51 +0100: Fetching: 0 bytes
-Wed, 09 Dec 2020 16:20:02 +0100: not had something in a while so ping
-Wed, 09 Dec 2020 16:20:02 +0100: ping sent
-Wed, 09 Dec 2020 16:20:02 +0100: Received CMD: 13 (PINGRESP)
-Wed, 09 Dec 2020 16:20:02 +0100: Fetching: 0 bytes
-Wed, 09 Dec 2020 16:20:13 +0100: not had something in a while so ping
-Wed, 09 Dec 2020 16:20:13 +0100: ping sent
-Wed, 09 Dec 2020 16:20:13 +0100: Received CMD: 13 (PINGRESP)
-Wed, 09 Dec 2020 16:20:13 +0100: Fetching: 0 bytes
-Wed, 09 Dec 2020 16:20:24 +0100: not had something in a while so ping
-Wed, 09 Dec 2020 16:20:24 +0100: ping sent
-Wed, 09 Dec 2020 16:20:24 +0100: Received CMD: 13 (PINGRESP)
-Wed, 09 Dec 2020 16:20:24 +0100: Fetching: 0 bytes
-Wed, 09 Dec 2020 16:20:35 +0100: not had something in a while so ping
-Wed, 09 Dec 2020 16:20:35 +0100: ping sent
-Wed, 09 Dec 2020 16:20:35 +0100: Received CMD: 13 (PINGRESP)
-Wed, 09 Dec 2020 16:20:35 +0100: Fetching: 0 bytes

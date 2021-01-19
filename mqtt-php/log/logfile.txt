@@ -141,9 +141,570 @@
 [04/Dec/2020:09:49:14] (server) topic: amm/commerciale messaggio: OFF
 [09/Dec/2020:12:31:07] (server) topic: amm/commerciale messaggio: f
 [09/Dec/2020:12:31:08] (server) topic: amm/commerciale messaggio: ff
-[09/Dec/2020:17:03:56] (Array) topic: amm/commerciale messaggio: gg
-[09/Dec/2020:17:04:30] () topic: amm/commerciale messaggio: gg
-[09/Dec/2020:17:05:05] () topic: amm/commerciale messaggio: gg
-[09/Dec/2020:17:05:13] (server) topic: amm/commerciale messaggio: gg
-[09/Dec/2020:17:05:13] (server) topic: amm/commerciale messaggio: gg
-[09/Dec/2020:17:28:01] (server) topic: amm/commerciale messaggio: gg
+[09/Dec/2020:16:37:48] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[09/Dec/2020:16:37:48] (server) topic: ciao/topi messaggio: testtopic
+[09/Dec/2020:16:37:48] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[09/Dec/2020:16:37:48] (server) topic: amm/commerciale messaggio: ciao 1
+[09/Dec/2020:16:37:48] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[09/Dec/2020:16:37:53] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[09/Dec/2020:16:37:53] (server) topic: ciao/topi messaggio: testtopic
+[09/Dec/2020:16:37:53] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[09/Dec/2020:16:37:53] (server) topic: amm/commerciale messaggio: ciao 1
+[09/Dec/2020:16:37:53] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[09/Dec/2020:17:27:17] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[09/Dec/2020:17:27:17] (server) topic: ciao/topi messaggio: testtopic
+[09/Dec/2020:17:27:17] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[09/Dec/2020:17:27:17] (server) topic: amm/commerciale messaggio: ciao 1
+[09/Dec/2020:17:27:17] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[09/Dec/2020:17:31:57] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[09/Dec/2020:17:31:57] (server) topic: ciao/topi messaggio: testtopic
+[09/Dec/2020:17:31:57] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[09/Dec/2020:17:31:57] (server) topic: amm/commerciale messaggio: ciao 1
+[09/Dec/2020:17:31:57] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[09/Dec/2020:17:52:37] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[09/Dec/2020:17:52:37] (server) topic: ciao/topi messaggio: testtopic
+[09/Dec/2020:17:52:37] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[09/Dec/2020:17:52:37] (server) topic: amm/commerciale messaggio: ciao 1
+[09/Dec/2020:17:52:37] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[09/Dec/2020:18:07:45] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[09/Dec/2020:18:07:45] (server) topic: ciao/topi messaggio: testtopic
+[09/Dec/2020:18:07:45] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[09/Dec/2020:18:07:45] (server) topic: amm/commerciale messaggio: ciao 1
+[09/Dec/2020:18:07:45] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[09/Dec/2020:18:07:51] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[09/Dec/2020:18:07:51] (server) topic: ciao/topi messaggio: testtopic
+[09/Dec/2020:18:07:51] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[09/Dec/2020:18:07:51] (server) topic: amm/commerciale messaggio: ciao 1
+[09/Dec/2020:18:07:51] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[10/Dec/2020:09:22:20] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[10/Dec/2020:09:22:20] (server) topic: ciao/topi messaggio: testtopic
+[10/Dec/2020:09:22:20] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[10/Dec/2020:09:22:20] (server) topic: amm/commerciale messaggio: ciao 1
+[10/Dec/2020:09:22:20] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[10/Dec/2020:09:22:35] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[10/Dec/2020:09:22:36] (server) topic: ciao/topi messaggio: testtopic
+[10/Dec/2020:09:22:36] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[10/Dec/2020:09:22:36] (server) topic: amm/commerciale messaggio: ciao 1
+[10/Dec/2020:09:22:36] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[10/Dec/2020:09:24:02] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[10/Dec/2020:09:24:02] (server) topic: ciao/topi messaggio: testtopic
+[10/Dec/2020:09:24:02] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[10/Dec/2020:09:24:02] (server) topic: amm/commerciale messaggio: ciao 1
+[10/Dec/2020:09:24:02] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[10/Dec/2020:09:24:41] (server) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+[10/Dec/2020:09:24:41] (server) topic: ciao/topi messaggio: testtopic
+[10/Dec/2020:09:24:41] (server) topic: home/garden/fountain messaggio: ciao
+ 2
+[10/Dec/2020:09:24:41] (server) topic: amm/commerciale messaggio: ciao 1
+[10/Dec/2020:09:24:41] (server) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 08:28:26 +0000
+[10/Dec/2020:09:31:41] (server) topic: test messaggio: 
+[10/Dec/2020:09:32:10] (server) topic: amm/commerciale messaggio: 
+[10/Dec/2020:09:32:40] (server) topic: ciao/topic messaggio: 
+[10/Dec/2020:09:32:46] (server) topic: ciao/topi messaggio: 
+[10/Dec/2020:09:33:06] (server) topic: home/garden/fountain messaggio: 
+[10/Dec/2020:09:34:24] (server) topic: home/garden/fountain messaggio: f
+[10/Dec/2020:09:34:35] (server) topic: home/garden/fountain messaggio: f
+[10/Dec/2020:09:34:35] (server) topic: home/garden/fountain messaggio: f
+[10/Dec/2020:09:34:35] (server) topic: home/garden/fountain messaggio: f
+[16/Dec/2020:10:59:22] (server) topic:  messaggio: 
+[16/Dec/2020:10:59:30] (server) topic:  messaggio: 
+[16/Dec/2020:10:59:55] (server) topic:  messaggio: 
+[16/Dec/2020:11:00:05] (server) topic:  messaggio: 
+[16/Dec/2020:11:03:11] (server) topic:  messaggio: 
+[16/Dec/2020:11:03:16] (server) topic:  messaggio: 
+[16/Dec/2020:11:03:22] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:17] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:18] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:19] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:13:20] (server) topic:  messaggio: 
+[16/Dec/2020:11:14:26] (server) topic:  messaggio: 
+[16/Dec/2020:11:14:37] (server) topic:  messaggio: 
+[16/Dec/2020:11:23:54] (server) topic:  messaggio: 
+[16/Dec/2020:11:24:21] (server) topic:  messaggio: 
+[16/Dec/2020:11:25:09] (server) topic:  messaggio: 
+[16/Dec/2020:12:01:43] (server) topic:  messaggio: 
+[16/Dec/2020:12:09:20] (server) topic:  messaggio: 
+[16/Dec/2020:12:11:24] (server) topic:  messaggio: 
+[16/Dec/2020:14:07:03] (server) topic:  messaggio: 
+[16/Dec/2020:14:35:46] (server) topic:  messaggio: 
+[16/Dec/2020:15:05:20] (server) topic:  messaggio: 
+[16/Dec/2020:15:10:25] (server) topic:  messaggio: 
+[16/Dec/2020:15:29:24] (server) topic:  messaggio: 
+[16/Dec/2020:15:30:16] (server) topic:  messaggio: 
+[16/Dec/2020:15:51:52] (server) topic:  messaggio: 
+[16/Dec/2020:16:01:30] (server) topic:  messaggio: 
+[16/Dec/2020:16:02:05] (server) topic:  messaggio: 
+[16/Dec/2020:16:05:26] (server) topic:  messaggio: 
+[16/Dec/2020:16:05:35] (server) topic:  messaggio: 
+[16/Dec/2020:16:05:35] (server) topic:  messaggio: 
+[16/Dec/2020:16:06:55] (server) topic:  messaggio: 
+[16/Dec/2020:16:07:53] (server) topic:  messaggio: 
+[16/Dec/2020:16:17:27] (server) topic:  messaggio: 
+[16/Dec/2020:16:17:41] (server) topic:  messaggio: 
+[16/Dec/2020:17:06:00] (server) topic:  messaggio: 
+[16/Dec/2020:17:15:36] (server) topic:  messaggio: 
+[16/Dec/2020:17:26:09] (server) topic:  messaggio: 
+[16/Dec/2020:17:29:17] (server) topic:  messaggio: 
+[16/Dec/2020:17:29:31] (server) topic:  messaggio: 
+[16/Dec/2020:17:29:40] (server) topic:  messaggio: 
+[16/Dec/2020:17:29:55] (server) topic:  messaggio: 
+[16/Dec/2020:17:30:03] (server) topic:  messaggio: 
+[16/Dec/2020:17:30:35] (server) topic:  messaggio: 
+[16/Dec/2020:17:32:14] (server) topic:  messaggio: 
+[16/Dec/2020:17:32:24] (server) topic:  messaggio: 
+[16/Dec/2020:17:41:03] (server) topic:  messaggio: 
+[16/Dec/2020:17:54:25] (server) topic:  messaggio: 
+[16/Dec/2020:18:04:58] (server) topic:  messaggio: 
+[17/Dec/2020:09:07:24] (server) topic:  messaggio: 
+[17/Dec/2020:09:07:27] (server) topic:  messaggio: 
+[17/Dec/2020:09:07:48] (server) topic:  messaggio: 
+[17/Dec/2020:09:12:02] (server) topic:  messaggio: 
+[17/Dec/2020:09:14:57] (server) topic:  messaggio: 
+[17/Dec/2020:09:49:35] (server) topic:  messaggio: 
+[17/Dec/2020:09:49:58] (server) topic:  messaggio: 
+[17/Dec/2020:09:50:55] (server) topic:  messaggio: 
+[17/Dec/2020:09:53:24] (server) topic:  messaggio: 
+[17/Dec/2020:09:55:56] (server) topic:  messaggio: 
+[17/Dec/2020:09:56:08] (server) topic:  messaggio: 
+[17/Dec/2020:09:56:24] (server) topic:  messaggio: 
+[17/Dec/2020:09:58:00] (server) topic:  messaggio: 
+[17/Dec/2020:09:58:11] (server) topic:  messaggio: 
+[17/Dec/2020:09:58:24] (server) topic:  messaggio: 
+[17/Dec/2020:09:58:53] (server) topic:  messaggio: 
+[17/Dec/2020:09:59:34] (server) topic:  messaggio: 
+[17/Dec/2020:10:00:17] (server) topic:  messaggio: 
+[17/Dec/2020:10:00:23] (server) topic:  messaggio: 
+[17/Dec/2020:10:00:28] (server) topic:  messaggio: 
+[17/Dec/2020:10:00:46] (server) topic:  messaggio: 
+[17/Dec/2020:10:00:52] (server) topic:  messaggio: 
+[17/Dec/2020:10:00:56] (server) topic:  messaggio: 
+[17/Dec/2020:10:01:15] (server) topic:  messaggio: 
+[17/Dec/2020:10:01:18] (server) topic:  messaggio: 
+[17/Dec/2020:10:14:19] (server) topic:  messaggio: 
+[17/Dec/2020:10:14:48] (server) topic:  messaggio: 
+[17/Dec/2020:10:21:47] (server) topic:  messaggio: 
+[17/Dec/2020:10:21:57] (server) topic:  messaggio: 
+[17/Dec/2020:10:22:59] (server) topic:  messaggio: 
+[17/Dec/2020:10:26:33] (server) topic:  messaggio: 
+[17/Dec/2020:10:27:43] (server) topic:  messaggio: 
+[17/Dec/2020:10:27:49] (server) topic:  messaggio: 
+[17/Dec/2020:10:28:36] (server) topic:  messaggio: 
+[17/Dec/2020:10:28:38] (server) topic:  messaggio: 
+[17/Dec/2020:10:28:41] (server) topic:  messaggio: 
+[17/Dec/2020:10:28:48] (server) topic:  messaggio: 
+[17/Dec/2020:10:29:17] (server) topic:  messaggio: 
+[17/Dec/2020:10:44:53] (server) topic:  messaggio: 
+[17/Dec/2020:10:45:45] (server) topic:  messaggio: 
+[17/Dec/2020:10:46:07] (server) topic:  messaggio: 
+[17/Dec/2020:10:46:46] (server) topic:  messaggio: 
+[17/Dec/2020:10:46:53] (server) topic:  messaggio: 
+[17/Dec/2020:10:48:32] (server) topic:  messaggio: 
+[17/Dec/2020:10:53:10] (server) topic:  messaggio: 
+[17/Dec/2020:10:56:52] (server) topic:  messaggio: 
+[17/Dec/2020:10:57:22] (server) topic:  messaggio: 
+[17/Dec/2020:10:57:40] (server) topic:  messaggio: 
+[17/Dec/2020:10:58:24] (server) topic:  messaggio: 
+[17/Dec/2020:10:58:29] (server) topic:  messaggio: 
+[17/Dec/2020:10:58:37] (server) topic:  messaggio: 
+[17/Dec/2020:10:59:14] (server) topic:  messaggio: 
+[17/Dec/2020:10:59:19] (server) topic:  messaggio: 
+[17/Dec/2020:10:59:55] (server) topic:  messaggio: 
+[17/Dec/2020:11:02:10] (server) topic:  messaggio: 
+[17/Dec/2020:11:30:36] (server) topic:  messaggio: 
+[17/Dec/2020:11:30:40] (server) topic:  messaggio: 
+[17/Dec/2020:11:30:44] (server) topic:  messaggio: 
+[17/Dec/2020:11:31:10] (server) topic:  messaggio: 
+[17/Dec/2020:11:31:49] (server) topic:  messaggio: 
+[17/Dec/2020:11:31:54] (server) topic:  messaggio: 
+[17/Dec/2020:11:33:05] (server) topic:  messaggio: 
+[17/Dec/2020:11:33:13] (server) topic:  messaggio: 
+[17/Dec/2020:11:33:23] (server) topic:  messaggio: 
+[17/Dec/2020:11:34:04] (server) topic:  messaggio: 
+[17/Dec/2020:11:34:17] (server) topic:  messaggio: 
+[17/Dec/2020:11:34:28] (server) topic:  messaggio: 
+[17/Dec/2020:11:34:31] (server) topic:  messaggio: 
+[17/Dec/2020:11:34:51] (server) topic:  messaggio: 
+[17/Dec/2020:11:35:51] (server) topic:  messaggio: 
+[17/Dec/2020:11:36:19] (server) topic:  messaggio: 
+[17/Dec/2020:11:37:16] (server) topic:  messaggio: 
+[17/Dec/2020:11:37:23] (server) topic:  messaggio: 
+[17/Dec/2020:11:37:30] (server) topic:  messaggio: 
+[17/Dec/2020:11:37:45] (server) topic:  messaggio: 
+[17/Dec/2020:11:37:55] (server) topic:  messaggio: 
+[17/Dec/2020:11:38:02] (server) topic:  messaggio: 
+[17/Dec/2020:11:38:13] (server) topic:  messaggio: 
+[17/Dec/2020:11:41:13] (server) topic:  messaggio: 
+[17/Dec/2020:11:44:46] (server) topic:  messaggio: 
+[17/Dec/2020:11:45:07] (server) topic:  messaggio: 
+[17/Dec/2020:11:45:21] (server) topic:  messaggio: 
+[17/Dec/2020:11:45:33] (server) topic:  messaggio: 
+[17/Dec/2020:11:46:06] (server) topic:  messaggio: 
+[17/Dec/2020:11:46:24] (server) topic:  messaggio: 
+[17/Dec/2020:11:48:46] (server) topic:  messaggio: 
+[17/Dec/2020:11:49:07] (server) topic:  messaggio: 
+[17/Dec/2020:11:49:16] (server) topic:  messaggio: 
+[17/Dec/2020:11:49:23] (server) topic:  messaggio: 
+[17/Dec/2020:11:49:30] (server) topic:  messaggio: 
+[17/Dec/2020:11:49:48] (server) topic:  messaggio: 
+[17/Dec/2020:11:50:14] (server) topic:  messaggio: 
+[17/Dec/2020:11:51:13] (server) topic:  messaggio: 
+[17/Dec/2020:11:52:26] (server) topic:  messaggio: 
+[17/Dec/2020:11:52:38] (server) topic:  messaggio: 
+[17/Dec/2020:11:52:50] (server) topic:  messaggio: 
+[17/Dec/2020:11:55:08] (server) topic:  messaggio: 
+[17/Dec/2020:12:42:32] (server) topic:  messaggio: 
+[17/Dec/2020:12:45:32] (server) topic:  messaggio: 
+[17/Dec/2020:12:46:12] (server) topic:  messaggio: 
+[17/Dec/2020:12:46:29] (server) topic:  messaggio: 
+[17/Dec/2020:14:14:52] (server) topic:  messaggio: 
+[17/Dec/2020:14:24:46] (server) topic:  messaggio: 
+[17/Dec/2020:14:24:55] (server) topic:  messaggio: 
+[17/Dec/2020:14:24:58] (server) topic:  messaggio: 
+[17/Dec/2020:16:21:34] (server) topic:  messaggio: 
+[17/Dec/2020:16:22:34] (server) topic:  messaggio: 
+[17/Dec/2020:16:23:10] (server) topic:  messaggio: 
+[17/Dec/2020:16:23:25] (server) topic:  messaggio: 
+[17/Dec/2020:16:56:29] (server) topic:  messaggio: 
+[17/Dec/2020:17:11:43] (server) topic:  messaggio: 
+[17/Dec/2020:17:11:48] (server) topic:  messaggio: 
+[17/Dec/2020:17:12:59] (server) topic:  messaggio: 
+[17/Dec/2020:17:13:06] (server) topic:  messaggio: 
+[17/Dec/2020:18:15:51] (server) topic:  messaggio: 
+[17/Dec/2020:18:16:03] (server) topic:  messaggio: 
+[17/Dec/2020:18:16:12] (server) topic:  messaggio: 
+[17/Dec/2020:18:16:15] (server) topic:  messaggio: 
+[17/Dec/2020:18:19:24] (server) topic:  messaggio: 
+[17/Dec/2020:18:19:34] (server) topic:  messaggio: 
+[18/Dec/2020:09:06:19] (server) topic:  messaggio: 
+[18/Dec/2020:09:06:43] (server) topic:  messaggio: 
+[18/Dec/2020:09:08:24] (server) topic:  messaggio: 
+[18/Dec/2020:09:40:19] (server) topic:  messaggio: 
+[18/Dec/2020:09:41:17] (server) topic:  messaggio: 
+[18/Dec/2020:09:41:24] (server) topic:  messaggio: 
+[18/Dec/2020:09:41:40] (server) topic:  messaggio: 
+[18/Dec/2020:09:42:37] (server) topic:  messaggio: 
+[18/Dec/2020:09:42:54] (server) topic:  messaggio: 
+[18/Dec/2020:09:43:16] (server) topic:  messaggio: 
+[18/Dec/2020:09:44:03] (server) topic:  messaggio: 
+[18/Dec/2020:09:44:07] (server) topic:  messaggio: 
+[18/Dec/2020:09:44:25] (server) topic:  messaggio: 
+[18/Dec/2020:09:59:35] (server) topic:  messaggio: 
+[18/Dec/2020:10:23:29] (server) topic:  messaggio: 
+[18/Dec/2020:10:24:13] (server) topic:  messaggio: 
+[18/Dec/2020:12:14:47] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:14:50] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:47] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:47] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:47] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:52] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:53] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:54] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:55] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:55] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:12:54:56] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:15:49:17] (server) topic:  messaggio: 
+[18/Dec/2020:15:49:32] (server) topic:  messaggio: 
+[18/Dec/2020:15:49:37] (server) topic:  messaggio: 
+[18/Dec/2020:15:49:44] (server) topic:  messaggio: 
+[18/Dec/2020:15:49:47] (server) topic:  messaggio: 
+[18/Dec/2020:15:50:12] (server) topic:  messaggio: 
+[18/Dec/2020:15:50:24] (server) topic:  messaggio: 
+[18/Dec/2020:15:50:32] (server) topic:  messaggio: 
+[18/Dec/2020:15:53:31] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:15:53:31] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:15:53:48] (server) topic:  messaggio: 
+[18/Dec/2020:15:53:58] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:15:53:58] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:15:54:13] (server) topic:  messaggio: 
+[18/Dec/2020:15:56:18] (server) topic:  messaggio: 
+[18/Dec/2020:15:57:32] (server) topic:  messaggio: 
+[18/Dec/2020:15:57:42] (server) topic:  messaggio: 
+[18/Dec/2020:15:57:47] (server) topic:  messaggio: 
+[18/Dec/2020:16:34:37] (server) topic:  messaggio: 
+[18/Dec/2020:16:38:46] (server) topic:  messaggio: 
+[18/Dec/2020:16:38:51] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:16:38:51] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:16:38:52] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:16:38:52] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:16:39:00] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:16:39:00] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:16:39:00] (server) topic: home/garden/fountain messaggio: hhh
+[18/Dec/2020:16:39:19] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:16:39:19] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:16:39:20] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:44] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:44] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:44] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:44] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:44] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:45] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:45] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:20:45] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:21:05] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:21:05] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:21:05] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:21:05] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:21:06] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:36:06] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:36:06] (server) topic: home/garden/fountain messaggio: hhh1
+[18/Dec/2020:17:36:06] (server) topic: home/garden/fountain messaggio: hhh1
+[21/Dec/2020:09:21:34] (server) topic:  messaggio: 
+[21/Dec/2020:09:47:47] (server) topic:  messaggio: 
+[21/Dec/2020:10:52:53] (server) topic: home/garden/fountain messaggio: ooo
+[21/Dec/2020:10:52:53] (server) topic: home/garden/fountain messaggio: ooo
+[21/Dec/2020:10:52:54] (server) topic: home/garden/fountain messaggio: ooo
+[21/Dec/2020:16:26:29] (server) topic: home/garden/fountain messaggio: ooo
+[21/Dec/2020:16:26:33] (server) topic: home/garden/fountain messaggio: ooo
+[21/Dec/2020:16:26:34] (server) topic: home/garden/fountain messaggio: ooo
+[21/Dec/2020:16:26:34] (server) topic: home/garden/fountain messaggio: ooo
+[22/Dec/2020:09:31:35] (server) topic: home/garden/fountain messaggio: hhh
+[22/Dec/2020:09:31:36] (server) topic: home/garden/fountain messaggio: hhh
+[22/Dec/2020:09:31:37] (server) topic: home/garden/fountain messaggio: hhh
+[22/Dec/2020:09:43:36] (server) topic: home/garden/fountain messaggio: hhh
+[22/Dec/2020:09:43:37] (server) topic: home/garden/fountain messaggio: hhh
+[22/Dec/2020:09:43:38] (server) topic: home/garden/fountain messaggio: hhh
+[22/Dec/2020:14:27:25] (server) topic: home/garden/fountain messaggio: hhh
+[22/Dec/2020:14:36:28] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:39:56] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:39:56] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:40:06] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:40:15] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:40:15] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:41:52] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:41:52] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:41:53] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:08] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:09] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:11] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:11] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:55] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:55] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:55] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:42:55] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:43:07] (server) topic: home/garden/fountai messaggio: hhh1
+[22/Dec/2020:14:43:10] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:44:55] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:44:55] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:44:56] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:44:56] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:44:57] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:44:57] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:44:57] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:02] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:02] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:02] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:27] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:27] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:27] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:27] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:27] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:28] (server) topic: home/garden/fountain messaggio: hhh1
+[22/Dec/2020:14:45:30] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:45:30] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:45:30] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:45:30] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:45:30] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:45:31] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:53:49] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:53:49] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:53:50] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:53:51] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:53:52] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:14:53:52] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:03:32] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:03:32] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:03:33] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:03:34] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:03:34] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:03:35] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:06:03] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:06:04] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:06:04] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:07:20] (server) topic:  messaggio: 
+[22/Dec/2020:15:07:25] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:07:25] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:07:26] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:07:36] (server) topic:  messaggio: 
+[22/Dec/2020:15:07:40] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:07:40] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:07:42] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:07:42] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:11:28] (server) topic:  messaggio: 
+[22/Dec/2020:15:11:37] (server) topic:  messaggio: 
+[22/Dec/2020:15:12:19] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:12:19] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:12:20] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:12:20] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:13:14] (server) topic:  messaggio: 
+[22/Dec/2020:15:13:19] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:13:19] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:13:23] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:13:24] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:13:42] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:13:42] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:14:33] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:14:34] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:14:42] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:14:43] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:14:44] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:14:56] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:14:56] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:17:04] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:17:05] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:17:36] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:17:37] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:20:14] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:20:51] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:20:52] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:20:53] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:21:02] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:21:06] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:21:45] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:21:46] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:21:46] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:22:40] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:22:41] (server) topic: home/garden/fountain messaggio: hhh2
+[22/Dec/2020:15:22:44] (server) topic: home/garden/fountain messaggio: hhh2
+[23/Dec/2020:09:26:57] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:09:26:58] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:10:48:43] (server) topic:  messaggio: 
+[23/Dec/2020:11:00:33] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:11:00:35] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:11:00:36] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:54] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:55] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:57] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:57] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:58] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:58] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:58] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:59] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:59] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:59] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:59] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:22:59] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:23:01] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:23:01] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:23:16] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:23:19] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:23:20] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:23:55] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:28:23] (server: d) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:28:24] (server: d) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:28:25] (server: d) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:28:58] server: d topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:28:58] server: d topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:28:59] server: d topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:28:59] server: d topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:29:00] server: d topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:29:32] (server) topic: home/garden/fountain messaggio: iiiii
+[23/Dec/2020:12:29:33] (server) topic: home/garden/fountain messaggio: iiiii

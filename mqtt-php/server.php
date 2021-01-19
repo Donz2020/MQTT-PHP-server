@@ -1,7 +1,8 @@
 <?php
 
 include('../mqtt-php/lib/Logging.php');
-include('../mqtt-php/lib/connectionLog.php');
+include('../mqtt-php/lib/phpMQTT_Extended.php');
+//include('../mqtt-php/db_test.php');
 //require('../mqtt-php/lib/phpMQTT.php');
 
 
@@ -12,7 +13,9 @@ include('../mqtt-php/lib/connectionLog.php');
 $client_id = 'phpMQTT-server';
 $cafile = '../mqtt-php/certs/ca.crt';
 
-
+/*
+* Argument parser from cli
+*/
 $shortopts = "";
 $shortopts .= "s:";  // Required value   //todo per connect al server con indirizzo e porta
 $shortopts .= "l:"; // required value  //todo per impostare path file di log
@@ -32,8 +35,10 @@ $longopts = array(
 );
 
 
+
+
 $options = getopt($shortopts, $longopts);
-print_r(array_values($options));
+print_r($options);
 
 
 $separe = implode($options);    //converto in stringa
@@ -49,13 +54,54 @@ $server = $input_array[0][0];
 
 $port = $input_array[0][1];
 
+//$database = $options["database"];
+
 
 //$mqtt = new connectionLog($server ,$port, $client_id, $cafile);
 
 
+/*
+* create istance for connect
+*/
+
+$mqtt = new phpMQTT_Extended($server, $port, $client_id, $cafile, $options["logfile"], $options["user"], $options["pass"], $options["database"]);
+
+if (isset($options["database"]) == FALSE) {
+    print("non settata\n");
+    //todo logger connessione
+    //$mqtt->logger($topic, $msg);
+    $topics['#'] = array('qos' => 0);
+    //$mqtt->_debugMessage("Database argument not passed by CLI");
+
+} else {
+    echo "settata\n";
+    $mqtt->connectDB($options["database"]);
+    $topics['#'] = array('qos' => 0);
+    //$db->writeDB();
+    //$db->closeDB();
+
+    if ($mqtt == FALSE) {
+        echo "settata ma senza connessione\n";
+        $topics['#'] = array('qos' => 0);
+        
+        //$mqtt->logger($topic, $msg);
+    }
+}
 
 
-$mqtt = new connectionLog($options["server"], $port, $client_id, $cafile, $options["logfile"], $options["user"], $options["pass"],$options["database"]);   //todo aggiungere comandi dal broker
+/*
+if (isset($options["logfile"]) == FALSE) {
+    print("non settata\n");
+    
+} else {
+    echo "settata\n";
+}
+*/
+
+//passo qua i valori e in caso l'handle della connessione ritorna false, faccio il log su testo
+
+//$db->connect($options["database"]);
+
 
 
 if (!$mqtt->connect(true, NULL, $options["user"], $options["pass"])) {
@@ -63,23 +109,36 @@ if (!$mqtt->connect(true, NULL, $options["user"], $options["pass"])) {
 }
 
 
-$topics['#'] = array('qos' => 0, 'function' => 'logger');
+
 $mqtt->subscribe($topics, 0);
 
 
 while ($mqtt->proc()) {
 }
 
-
 $mqtt->close();
 
 
+/*
+* Function to log messages from topics
+*/
+
+/*
 function logger($topic, $msg)
 {
     $log = new Logging();
-    $logpath = '../mqtt-php/log/logfile.txt';  //todo var del log a scelta come parametro cli
+    $logpath = '../mqtt-php/log/logfile.txt';
     $log->lfile($logpath);
     $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
     $log->lclose();
+}
+*/
 
-} //todo sistemare in logging ,l'indirizzo del server
+/*
+function db($dsn)
+{
+
+    $db = new DB();
+    $db->dbConnect($dsn);
+}
+*/

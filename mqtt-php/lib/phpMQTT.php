@@ -504,7 +504,7 @@ class phpMQTT
     public function proc(bool $loop = true)
     {
         if (feof($this->socket)) {
-            $this->_debugMessage('eof receive going to reconnect for good measure');
+            $this->_debugMessage('Disconnected eof receive going to reconnect for good measure');
             fclose($this->socket);
             $this->connect_auto(false);
             if (count($this->topics)) {

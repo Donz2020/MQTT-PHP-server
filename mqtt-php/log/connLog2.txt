@@ -1,0 +1,161 @@
+Sun, 03 Jan 2021 19:20:03 +0100: Connected to Broker
+Sun, 03 Jan 2021 19:20:14 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:20:14 +0100: ping sent
+Sun, 03 Jan 2021 19:20:14 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:20:14 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:20:25 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:20:25 +0100: ping sent
+Sun, 03 Jan 2021 19:20:25 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:20:25 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:20:36 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:20:36 +0100: ping sent
+Sun, 03 Jan 2021 19:20:36 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:20:36 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:20:47 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:20:47 +0100: ping sent
+Sun, 03 Jan 2021 19:20:47 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:20:47 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:20:58 +0100: Connected to Broker
+Sun, 03 Jan 2021 19:21:09 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:21:09 +0100: ping sent
+Sun, 03 Jan 2021 19:21:09 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:21:09 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:21:20 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:21:20 +0100: ping sent
+Sun, 03 Jan 2021 19:21:20 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:21:20 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:21:31 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:21:31 +0100: ping sent
+Sun, 03 Jan 2021 19:21:31 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:21:31 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:21:42 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:21:42 +0100: ping sent
+Sun, 03 Jan 2021 19:21:42 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:21:42 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:21:53 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:21:53 +0100: ping sent
+Sun, 03 Jan 2021 19:21:53 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:21:53 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:22:04 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:22:04 +0100: ping sent
+Sun, 03 Jan 2021 19:22:04 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:22:04 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:22:15 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:22:15 +0100: ping sent
+Sun, 03 Jan 2021 19:22:15 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:22:15 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:22:26 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:22:26 +0100: ping sent
+Sun, 03 Jan 2021 19:22:26 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:22:26 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:22:29 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:29 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:29 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:30 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:30 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:30 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:35 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:35 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:35 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:35 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:35 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:35 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:35 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:35 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:35 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:36 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:36 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:36 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:36 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:36 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:36 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:37 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:22:37 +0100: ping sent
+Sun, 03 Jan 2021 19:22:37 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:22:37 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:22:43 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:22:43 +0100: Fetching: 21 bytes
+Sun, 03 Jan 2021 19:22:43 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:22:48 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:22:48 +0100: ping sent
+Sun, 03 Jan 2021 19:22:48 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:22:48 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:22:59 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:22:59 +0100: ping sent
+Sun, 03 Jan 2021 19:22:59 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:22:59 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:23:10 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:23:10 +0100: ping sent
+Sun, 03 Jan 2021 19:23:10 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:23:10 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:23:21 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:23:21 +0100: ping sent
+Sun, 03 Jan 2021 19:23:21 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:23:21 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:23:30 +0100: Received CMD: 3 (PUBLISH)
+Sun, 03 Jan 2021 19:23:30 +0100: Fetching: 29 bytes
+Sun, 03 Jan 2021 19:23:30 +0100: msg received but no match in subscriptions
+Sun, 03 Jan 2021 19:23:32 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:23:32 +0100: ping sent
+Sun, 03 Jan 2021 19:23:32 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:23:32 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:23:43 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:23:43 +0100: ping sent
+Sun, 03 Jan 2021 19:23:43 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:23:43 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:23:54 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:23:54 +0100: ping sent
+Sun, 03 Jan 2021 19:23:54 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:23:54 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:24:05 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:24:05 +0100: ping sent
+Sun, 03 Jan 2021 19:24:05 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:24:05 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:24:16 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:24:16 +0100: ping sent
+Sun, 03 Jan 2021 19:24:16 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:24:16 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:24:27 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:24:27 +0100: ping sent
+Sun, 03 Jan 2021 19:24:27 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:24:27 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:24:38 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:24:38 +0100: ping sent
+Sun, 03 Jan 2021 19:24:38 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:24:38 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:24:49 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:24:49 +0100: ping sent
+Sun, 03 Jan 2021 19:24:49 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:24:49 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:25:00 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:25:00 +0100: ping sent
+Sun, 03 Jan 2021 19:25:00 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:25:00 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:25:11 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:25:11 +0100: ping sent
+Sun, 03 Jan 2021 19:25:11 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:25:11 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:25:22 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:25:22 +0100: ping sent
+Sun, 03 Jan 2021 19:25:22 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:25:22 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:25:33 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:25:33 +0100: ping sent
+Sun, 03 Jan 2021 19:25:33 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:25:33 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:25:36 +0100: eof receive going to reconnect for good measure
+Sun, 03 Jan 2021 19:25:50 +0100: Connected to Broker
+Sun, 03 Jan 2021 19:26:02 +0100: Connected to Broker
+Sun, 03 Jan 2021 19:26:44 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:26:44 +0100: ping sent
+Sun, 03 Jan 2021 19:26:44 +0100: eof receive going to reconnect for good measure
+Sun, 03 Jan 2021 19:26:44 +0100: Connected to Broker
+Sun, 03 Jan 2021 19:27:04 +0100: Connected to Broker
+Sun, 03 Jan 2021 19:27:15 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:27:15 +0100: ping sent
+Sun, 03 Jan 2021 19:27:15 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:27:15 +0100: Fetching: 0 bytes
+Sun, 03 Jan 2021 19:27:26 +0100: not had something in a while so ping
+Sun, 03 Jan 2021 19:27:26 +0100: ping sent
+Sun, 03 Jan 2021 19:27:26 +0100: Received CMD: 13 (PINGRESP)
+Sun, 03 Jan 2021 19:27:26 +0100: Fetching: 0 bytes
