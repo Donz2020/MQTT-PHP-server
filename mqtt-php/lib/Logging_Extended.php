@@ -14,7 +14,7 @@ class Logging_Extended extends Logging
         $this->log_file = $path;
     }
 
-    public function lwrite($topic, $message, $server)
+    public function lwrite($topic, $message, $address)
     {
 
         // if file pointer doesn't exist, then open log file
@@ -27,10 +27,17 @@ class Logging_Extended extends Logging
 
         // define current time and suppress E_WARNING if using the system TZ settings
         // (don't forget to set the INI setting date.timezone)
-        $time = @date('d/m/y H:i:s');
+
+        //$time = @date('d/m/y H:i:s');
+
+        $date = @date('d/m/y');
+        $time = @date('H:i:s');
+
+        echo $date."\n";
+        echo $time."\n";
 
         // write current time, script name and message to the log file
-        fwrite($this->fp, "$time ($server) $topic $message" . PHP_EOL);
+        fwrite($this->fp, "$date $time ($address) $topic $message" . PHP_EOL);
     }
 
 

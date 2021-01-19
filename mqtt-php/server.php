@@ -52,7 +52,6 @@ $port = $input_array[0][1];
 
 //$database = $options["database"];
 
-
 //global $server;
 
 //$log = new Logging_Extended();
