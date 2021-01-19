@@ -739,3 +739,32 @@
 19/01/21 12:46:08 (localhost) topic: amm/matteo messaggio: ciao
 19/01/21 12:50:30 (localhost) topic: amm/matteo messaggio: ciao
 19/01/21 16:08:03 (localhost) topic: amm/matteo messaggio: ciao
+19/01/21 22:49:13 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+19/01/21 22:49:13 (localhost) topic: ciao/topi messaggio: testtopic
+19/01/21 22:49:13 (localhost) topic: home/garden/fountain messaggio: ciao
+ 2
+19/01/21 22:49:13 (localhost) topic: amm/commerciale messaggio: ciao 1
+19/01/21 22:49:13 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
+19/01/21 22:49:26 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+19/01/21 22:49:51 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+19/01/21 22:49:51 (localhost) topic: ciao/topi messaggio: testtopic
+19/01/21 22:49:51 (localhost) topic: home/garden/fountain messaggio: ciao
+ 2
+19/01/21 22:49:51 (localhost) topic: amm/commerciale messaggio: ciao 1
+19/01/21 22:49:51 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
+19/01/21 22:49:53 (localhost) topic: ristorante messaggio: 
+19/01/21 22:49:54 (localhost) topic: ristorante messaggio: 
+19/01/21 22:49:54 (localhost) topic: ristorante messaggio: 
+19/01/21 22:52:05 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+19/01/21 22:52:05 (localhost) topic: ciao/topi messaggio: testtopic
+19/01/21 22:52:05 (localhost) topic: home/garden/fountain messaggio: ciao
+ 2
+19/01/21 22:52:05 (localhost) topic: amm/commerciale messaggio: ciao 1
+19/01/21 22:52:05 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
+19/01/21 22:52:11 (localhost) topic: ristorante messaggio: ciao
+19/01/21 22:52:12 (localhost) topic: ristorante messaggio: ciao
+19/01/21 22:52:12 (localhost) topic: ristorante messaggio: ciao
+19/01/21 22:52:13 (localhost) topic: ristorante messaggio: ciao
+19/01/21 22:52:13 (localhost) topic: ristorante messaggio: ciao
+19/01/21 22:52:28 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
+19/01/21 22:52:50 (localhost) topic: ciao/topi messaggio: testtopic

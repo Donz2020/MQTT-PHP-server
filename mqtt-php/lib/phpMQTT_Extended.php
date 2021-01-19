@@ -25,7 +25,7 @@ class phpMQTT_Extended extends phpMQTT
         echo date('r: ') . $message . PHP_EOL;
         $var = date('r: ') . $message . PHP_EOL;
         $filename = $this->logfile;
-        $myfile = fopen("C:/Users/stage/Downloads/mqtt-php/log/" . $filename, "a") or print("Unable to open file!");
+        $myfile = fopen("D:/progetti_stage/mqtt-php/log" . $filename, "a") or print("Unable to open file!");
         fwrite($myfile, $var);
         fclose($myfile);
     }
