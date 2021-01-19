@@ -27,39 +27,143 @@ class phpMQTT_Extended extends phpMQTT
         fclose($myfile);
     }
 
+
+    function fint_libDMF_aammgg2N($sYear, $sMonth, $sDay)
+    {
+        $timestamp = mktime(0, 0, 0, $sMonth, $sDay, $sYear);
+        echo "timestamp :" . $timestamp;
+        $lData = ($timestamp / 86400) +  719529;
+        //$GLOBALS['sHlibMath']->fbool_libMATH_Arrotonda($lData, 1, LIBMATH_ARROT_INTERO, LIBMATH_ARROT_GIUSTO);
+        return ($lData);
+    }
+
     public function logger($topic, $msg)
     {
         $log = new Logging_Extended();
-
+        
         $address = $this->address;
         $logpath = '../mqtt-php/log/messageLog.txt';
         $log->lfile($logpath);
         $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg, $address);
         $log->lclose();
 
-        /*
-        $data = file($logpath);
-        $readLines = max(0, count($data) - 1);
+        $arrMsg = array($topic, $msg);
+        print_r(array_values($arrMsg));
 
 
-        if ($readLines > 0) {
-            for ($i = $readLines; $i < count($data);$i++) {
-                //echo $data[$i];
-                //$textperline = fgets($data[$i]);
-                $date = substr($data[$i], 0, -57);
-                $time = substr($data[$i], 9, -48);
 
-                $array = array($date,$time);
-                //print_r(array_values($array));
-
-                return $array;
-            }
-            //fclose($data);
-        }       
-        */
         $val = $this->extractDateTime();
-        print_r($val);
+        print ($val) . "\n";
+
+        $val2 = $this->substrDate();
+        print ($val2) . "\n";
+
+        $val3 = $this->substrTime();
+        print ($val3) . "\n";
+
+        $val4 = $this->substrDateD();
+        print ($val4) . "\n";
+
+        $val5 = $this->substrDateM();
+        print ($val5) . "\n";
+
+        $val6 = $this->substrDateY();
+        print ($val6) . "\n";
+
+        $val7 = $this->substrTimeH();
+        print ($val7) . "\n";
+
+        $val8 = $this->substrTimeM();
+        print ($val8) . "\n";
+
+        $val9 = $this->substrTimeS();
+        print ($val9) . "\n";
+
+        $val10 = $this->extractIpAddress();
+        print ($val10) . "\n";
+        /*
+        $val11 = $this->extractTopic();
+        print ($val11) . "\n";
+
+        $val12 = $this->extractMessage();
+        print ($val12) . "\n";
+*/
+        return $arrMsg;
     }
+
+
+    public function substrDate()
+    {
+        $date = $this->extractDateTime();
+        $days = substr($date, 0, -10);
+
+        return $days;
+    }
+
+    public function substrDateD()
+    {
+        $date = $this->extractDateTime();
+        $day = substr($date, 0, -16);
+
+        return $day;
+    }
+
+    public function substrDateM()
+    {
+        $date = $this->extractDateTime();
+        $month = substr($date, 3, -13);
+
+        return $month;
+    }
+
+    public function substrDateY()
+    {
+        $date = $this->extractDateTime();
+        $year = substr($date, 6, -10);
+
+        return $year;
+    }
+
+
+    public function substrTime()
+    {
+        $time = $this->extractDateTime();
+        $hours = substr($time, 9, -1);
+
+        return $hours;
+    }
+
+
+    public function substrTimeH()
+    {
+        $time = $this->extractDateTime();
+        $hour = substr($time, 9, -7);
+
+        return $hour;
+    }
+
+    public function substrTimeM()
+    {
+        $time = $this->extractDateTime();
+        $minute = substr($time, 12, -4);
+
+        return $minute;
+    }
+
+    public function substrTimeS()
+    {
+        $time = $this->extractDateTime();
+        $second = substr($time, 15, -1);
+
+        return $second;
+    }
+
+    public function extractIpAddress()
+    {
+        $address = $this->address;
+        return $address;
+    }
+
 
 
     public function extractDateTime()
@@ -71,13 +175,15 @@ class phpMQTT_Extended extends phpMQTT
         if ($readLines > 0) {
             for ($i = $readLines; $i < count($data); $i++) {
 
-                $date = substr($data[$i], 0, -57);
-                $time = substr($data[$i], 9, -48);
+                $date = substr($data[$i], 0, -48);
+                //$time = substr($data[$i], 9, -48);
 
-                $array = array($date, $time);
+                //$array = $date;
+
+                //$string = implode($array);
                 //print_r(array_values($array));
             }
-            return $array;
+            return $date;
         }
     }
 
@@ -142,12 +248,10 @@ class phpMQTT_Extended extends phpMQTT
         $connection = odbc_connect("Dsn=$dsn;Database=$database", $user, $pass);
 
         if ($connection == true) {
-            echo "connesso\n";
+            //echo "connesso\n";
             $this->_debugMessage("Connected to DB");
-            //todo scrivo sul debugmessage che è avvenuta con successo
         } else {
             $this->_debugMessage("Failed to connect to DB");
-            //todo scrivo sul debugmessage che è fallita la connessione
         }
 
 
