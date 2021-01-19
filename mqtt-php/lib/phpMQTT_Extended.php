@@ -6,9 +6,6 @@ class phpMQTT_Extended extends phpMQTT
 
 {
 
-    public $topic;
-    public $msg;
-
 
     public function __construct($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database = null)
     {
@@ -158,7 +155,6 @@ class phpMQTT_Extended extends phpMQTT
 
     public function connectDB($dsn)
     {
-        //$this->database = $dsn;
         $this->dsn = $dsn;
         $database = 'MQTT';
         $user = '';
@@ -167,7 +163,6 @@ class phpMQTT_Extended extends phpMQTT
         $connection = odbc_connect("Dsn=$dsn;Database=$database", $user, $pass);
 
         if ($connection == true) {
-            //echo "connesso\n";
             $this->_debugMessage("Connected to DB");
             $this->writeDB($connection);
         } else {
