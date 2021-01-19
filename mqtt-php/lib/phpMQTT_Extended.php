@@ -146,12 +146,10 @@ class phpMQTT_Extended extends phpMQTT
         if ($connection == true) {
             //echo "connesso\n";
             $this->_debugMessage("Connected to DB");
+            $this->writeDB($connection);
         } else {
             $this->_debugMessage("Failed to connect to DB");
         }
-
-
-        $this->writeDB($connection);
 
 
         var_dump($connection);
@@ -165,7 +163,7 @@ class phpMQTT_Extended extends phpMQTT
         $query = 'INSERT INTO tx_mqttlog (TX_DATA,TX_ORA,TX_C_SERVER,TOPIC,MESSAGGIO,F_LETTO,F_ANNULLATO)
         VALUES(?,?,?,?,?,?,?);';
 
-        $data = ['12122020', '150322', '192.168.120.113', 'amm/commerciale', 'nuovabolla2', '0', '0'];
+        $data = ['12122020', '150322', $this->extractIpAddress(), 'amm/commerciale', 'nuovabolla2', '0', '0'];
 
         //$data = ['$data', '$ora', '$server', '$topic', '$messaggio', '$letto', '$annullato'];
 
