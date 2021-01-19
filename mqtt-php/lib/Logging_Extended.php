@@ -3,9 +3,8 @@
 include(__DIR__ . '/Logging.php');
 
 
-
-class Logging_Extended extends Logging {
-
+class Logging_Extended extends Logging
+{
 
     private $log_file, $fp;
 
@@ -15,36 +14,25 @@ class Logging_Extended extends Logging {
         $this->log_file = $path;
     }
 
-
-    public function server(&$server){
-        $this->server = $server;
-        
-        var_dump($server);
-    }
-
-    public function lwrite($topic,$message,$server)
+    public function lwrite($topic, $message, $server)
     {
 
-        $server = $this->server($server);
-        
         // if file pointer doesn't exist, then open log file
         if (!is_resource($this->fp)) {
             $this->lopen();
-        }
-       ;
-        // define script name
-        $scriptname = $server;
-        
-        var_dump($scriptname);
+        };
+
+        //var_dump($server);
+
+
         // define current time and suppress E_WARNING if using the system TZ settings
         // (don't forget to set the INI setting date.timezone)
         $time = @date('d/m/y H:i:s');
-        
+
         // write current time, script name and message to the log file
-        fwrite($this->fp, "$time ($scriptname) $topic $message" . PHP_EOL);
+        fwrite($this->fp, "$time ($server) $topic $message" . PHP_EOL);
     }
 
-    
 
     private function lopen()
     {

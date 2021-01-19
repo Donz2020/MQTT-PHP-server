@@ -42,14 +42,14 @@ $day = 8;
 
 $giorni = fint_libDMF_aammgg2N($year, $month, $day);
 
-echo "\ngiorni passati dall'anno 0 :" ." ". $giorni;
+echo "\ngiorni passati dall'anno 0 :" . " " . $giorni;
 
 
 
 function fint_libDMF_aammgg2N($sYear, $sMonth, $sDay)
 {
     $timestamp = mktime(0, 0, 0, $sMonth, $sDay, $sYear);
-    echo "timestamp :".$timestamp;
+    echo "timestamp :" . $timestamp;
     $lData = ($timestamp / 86400) +  719529;
     //$GLOBALS['sHlibMath']->fbool_libMATH_Arrotonda($lData, 1, LIBMATH_ARROT_INTERO, LIBMATH_ARROT_GIUSTO);
     return ($lData);
@@ -63,19 +63,17 @@ $second = 8;
 $secondi = fint_libDMF_hhmmss2N($hour, $minute, $second);
 
 
-echo "\nsecondi dalla mezzanotte :" ." ". $secondi;
+echo "\nsecondi dalla mezzanotte :" . " " . $secondi;
 
 
 
 
 function fint_libDMF_hhmmss2N($sHour, $sMinute, $sSecond)
 {
-    $lOra = ($sHour*3600) + ($sMinute*60) + $sSecond + 1;
+    $lOra = ($sHour * 3600) + ($sMinute * 60) + $sSecond + 1;
     return ($lOra);
 }
 
 
 
 //private $stMonthLabel = array(1=>"January", 2=>"February", 3=>"March", 4=>"April", 5=>"May", 6=>"June", 7=>"July", 8=>"August", 9=>"September", 10=>"October", 11=>"November", 12=>"December"));
-   
-

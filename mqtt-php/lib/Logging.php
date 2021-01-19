@@ -3,7 +3,7 @@
 
 class Logging
 {
-// declare log file and file pointer as private properties
+    // declare log file and file pointer as private properties
     private $log_file, $fp;
 
     // set log file (path and name)
@@ -13,7 +13,8 @@ class Logging
     }
 
     // write message to the log file
-    
+
+
     // close log file (it's always a good idea to close a file when you're done with it)
     public function lclose()
     {
@@ -36,5 +37,4 @@ class Logging
         // (if the file does not exist, try to create it)
         $this->fp = fopen($lfile, 'a') or exit("Can't open $lfile!");
     }
-
 }

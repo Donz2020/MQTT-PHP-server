@@ -53,13 +53,9 @@ $port = $input_array[0][1];
 //$database = $options["database"];
 
 
-global $server;
+//global $server;
 
-$log = new Logging_Extended();
-$log->server($server);
-
-
-
+//$log = new Logging_Extended();
 
 
 
@@ -86,7 +82,7 @@ if (isset($options["database"]) == FALSE) {
     if ($mqtt == FALSE) {
         echo "settata ma senza connessione\n";
         $topics['#'] = array('qos' => 0);
-        
+
         //$mqtt->logger($topic, $msg);
     }
 }

@@ -5,7 +5,7 @@ include(__DIR__ . '/phpMQTT.php');
 class phpMQTT_Extended extends phpMQTT
 
 {
-    
+
     public function __construct($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database = null)
     {
         $this->broker($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database);
@@ -13,6 +13,7 @@ class phpMQTT_Extended extends phpMQTT
         $this->user = $user;
         $this->pass = $pass;
         $this->database = $database;
+        $this->address = $address;
     }
 
     protected function _debugMessage(string $message): void
@@ -29,11 +30,11 @@ class phpMQTT_Extended extends phpMQTT
     public function logger($topic, $msg)
     {
         $log = new Logging_Extended();
-        $log->server($server);
 
+        $address = $this->address;
         $logpath = '../mqtt-php/log/messageLog.txt';
         $log->lfile($logpath);
-        $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg,$server);
+        $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg, $address);
         $log->lclose();
     }
 
@@ -68,7 +69,7 @@ class phpMQTT_Extended extends phpMQTT
                 if (method_exists('phpMQTT_Extended', 'logger')) {
 
                     $this->logger($topic, $msg);
-                    
+
                     //call_user_func($top['function'], $topic, $msg);
 
                 }
@@ -102,9 +103,9 @@ class phpMQTT_Extended extends phpMQTT
             //todo scrivo sul debugmessage che è avvenuta con successo
         } else {
             $this->_debugMessage("Failed to connect to DB");
-                //todo scrivo sul debugmessage che è fallita la connessione
+            //todo scrivo sul debugmessage che è fallita la connessione
         }
-        
+
 
         $this->writeDB($connection);
 
@@ -128,7 +129,7 @@ class phpMQTT_Extended extends phpMQTT
         $res = odbc_prepare($connection, $query);
 
         if (!$res) die("could not prepare statement " . $query);
-    
+
 
 
         if (odbc_execute($res, $data)) {
@@ -152,10 +153,4 @@ class phpMQTT_Extended extends phpMQTT
         echo "connessione chiusa DB\n";
         $this->_debugMessage("Disconnected from DB");
     }
-
-
-
-
-
-
 }
