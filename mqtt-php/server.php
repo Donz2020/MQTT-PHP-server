@@ -76,7 +76,7 @@ if (isset($options["database"]) == FALSE) {
 
 } else {
     echo "settata\n";
-    $mqtt->connectDB($options["database"]);
+    //$mqtt->connectDB($options["database"]);
     $topics['#'] = array('qos' => 0);
     //$db->writeDB();
     //$db->closeDB();

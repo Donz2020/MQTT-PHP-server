@@ -14,6 +14,7 @@ class phpMQTT_Extended extends phpMQTT
         $this->pass = $pass;
         $this->database = $database;
         $this->address = $address;
+        //echo $database;
     }
 
     protected function _debugMessage(string $message): void
@@ -51,15 +52,27 @@ class phpMQTT_Extended extends phpMQTT
         print_r(array_values($arrMsg));
 
 
-
         $val = $this->extractIpAddress();
         print ($val) . "\n";
+        
 
+        $val2 = array($this->getDate(),$this->getTime());
+        print_r(array_values($val2)) . "\n";
 
         return $arrMsg;
     }
 
+    public function getDate(){
+        $date = @date('d/m/y');
+        //print($date);
+        return $date;
+    }
 
+    public function getTime(){
+        $time = @date('H:i:s');
+        //print($time);
+        return $time;
+    }
 
     public function extractIpAddress()
     {
@@ -67,29 +80,7 @@ class phpMQTT_Extended extends phpMQTT
         return $address;
     }
 
-
-
-    public function extractDateTime()
-    {
-        $path = "../mqtt-php/log/messageLog.txt";
-        $data = file($path);
-        $readLines = max(0, count($data) - 1);
-
-        if ($readLines > 0) {
-            for ($i = $readLines; $i < count($data); $i++) {
-
-                $date = substr($data[$i], 0, -48);
-                //$time = substr($data[$i], 9, -48);
-
-                //$array = $date;
-
-                //$string = implode($array);
-                //print_r(array_values($array));
-            }
-            return $date;
-        }
-    }
-
+    
 
     public function message($msg)
     {
@@ -122,10 +113,11 @@ class phpMQTT_Extended extends phpMQTT
                 if (method_exists('phpMQTT_Extended', 'logger')) {
 
                     $this->logger($topic, $msg);
+                    $this->connectDB($this->database);
 
                     //call_user_func($top['function'], $topic, $msg);
-
                 }
+                
             } else {
                 $this->_errorMessage('Message received on topic ' . $topic . ' but function is not callable.');
             }
@@ -143,6 +135,7 @@ class phpMQTT_Extended extends phpMQTT
 
     public function connectDB($dsn)
     {
+        //$this->database = $dsn;
         $this->dsn = $dsn;
         $database = 'MQTT';
         $user = '';

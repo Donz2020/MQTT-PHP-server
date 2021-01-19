@@ -36,9 +36,9 @@ var_dump($date);
 */
 
 //todo fare array associativo per i mesi (es. 1=>Gen , 2=>Feb)
-$year = 2018;
-$month = 12;
-$day = 8;
+$year = 2021;
+$month = 1;
+$day = 15;
 
 $giorni = fint_libDMF_aammgg2N($year, $month, $day);
 
@@ -58,7 +58,7 @@ function fint_libDMF_aammgg2N($sYear, $sMonth, $sDay)
 
 $hour = 18;
 $minute = 12;
-$second = 8;
+$second = 9;
 
 $secondi = fint_libDMF_hhmmss2N($hour, $minute, $second);
 
