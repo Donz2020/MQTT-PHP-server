@@ -63,7 +63,7 @@ class phpMQTT_Extended extends phpMQTT
                 $topic
             )) {
 
-                if (method_exists('connectionLog', 'logger')) {
+                if (method_exists('phpMQTT_Extended', 'logger')) {
 
                     $this->logger($topic, $msg);
                     
@@ -140,7 +140,7 @@ class phpMQTT_Extended extends phpMQTT
 
 
         var_dump($connection);
-        $this->closeDB($connection);
+        //$this->closeDB($connection); 
     }
 
 

@@ -2,14 +2,8 @@
 
 include('../mqtt-php/lib/Logging.php');
 include('../mqtt-php/lib/phpMQTT_Extended.php');
-//include('../mqtt-php/db_test.php');
-//require('../mqtt-php/lib/phpMQTT.php');
 
 
-//$server = readline("Enter server address:");  //todo fare con $this->server = $server per passare argomenti dalla cli
-//$port = 8883;
-//$username = 'test';
-//$password = 'test';
 $client_id = 'phpMQTT-server';
 $cafile = '../mqtt-php/certs/ca.crt';
 
@@ -56,8 +50,6 @@ $port = $input_array[0][1];
 
 //$database = $options["database"];
 
-
-//$mqtt = new connectionLog($server ,$port, $client_id, $cafile);
 
 
 /*
