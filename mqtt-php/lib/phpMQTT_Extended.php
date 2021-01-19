@@ -52,111 +52,14 @@ class phpMQTT_Extended extends phpMQTT
 
 
 
-        $val = $this->extractDateTime();
+        $val = $this->extractIpAddress();
         print ($val) . "\n";
 
-        $val2 = $this->substrDate();
-        print ($val2) . "\n";
 
-        $val3 = $this->substrTime();
-        print ($val3) . "\n";
-
-        $val4 = $this->substrDateD();
-        print ($val4) . "\n";
-
-        $val5 = $this->substrDateM();
-        print ($val5) . "\n";
-
-        $val6 = $this->substrDateY();
-        print ($val6) . "\n";
-
-        $val7 = $this->substrTimeH();
-        print ($val7) . "\n";
-
-        $val8 = $this->substrTimeM();
-        print ($val8) . "\n";
-
-        $val9 = $this->substrTimeS();
-        print ($val9) . "\n";
-
-        $val10 = $this->extractIpAddress();
-        print ($val10) . "\n";
-        /*
-        $val11 = $this->extractTopic();
-        print ($val11) . "\n";
-
-        $val12 = $this->extractMessage();
-        print ($val12) . "\n";
-*/
         return $arrMsg;
     }
 
 
-    public function substrDate()
-    {
-        $date = $this->extractDateTime();
-        $days = substr($date, 0, -10);
-
-        return $days;
-    }
-
-    public function substrDateD()
-    {
-        $date = $this->extractDateTime();
-        $day = substr($date, 0, -16);
-
-        return $day;
-    }
-
-    public function substrDateM()
-    {
-        $date = $this->extractDateTime();
-        $month = substr($date, 3, -13);
-
-        return $month;
-    }
-
-    public function substrDateY()
-    {
-        $date = $this->extractDateTime();
-        $year = substr($date, 6, -10);
-
-        return $year;
-    }
-
-
-    public function substrTime()
-    {
-        $time = $this->extractDateTime();
-        $hours = substr($time, 9, -1);
-
-        return $hours;
-    }
-
-
-    public function substrTimeH()
-    {
-        $time = $this->extractDateTime();
-        $hour = substr($time, 9, -7);
-
-        return $hour;
-    }
-
-    public function substrTimeM()
-    {
-        $time = $this->extractDateTime();
-        $minute = substr($time, 12, -4);
-
-        return $minute;
-    }
-
-    public function substrTimeS()
-    {
-        $time = $this->extractDateTime();
-        $second = substr($time, 15, -1);
-
-        return $second;
-    }
 
     public function extractIpAddress()
     {

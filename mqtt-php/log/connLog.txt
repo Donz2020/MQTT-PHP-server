@@ -21596,3 +21596,29 @@ Thu, 14 Jan 2021 16:49:28 +0100: not had something in a while so ping
 Thu, 14 Jan 2021 16:49:28 +0100: ping sent
 Thu, 14 Jan 2021 16:49:28 +0100: Received CMD: 13 (PINGRESP)
 Thu, 14 Jan 2021 16:49:28 +0100: Fetching: 0 bytes
+Thu, 14 Jan 2021 17:10:42 +0100: Connected to DB
+Thu, 14 Jan 2021 17:10:42 +0100: execute query to DB successful
+Thu, 14 Jan 2021 17:10:43 +0100: Connected to Broker
+Thu, 14 Jan 2021 17:10:44 +0100: Received CMD: 3 (PUBLISH)
+Thu, 14 Jan 2021 17:10:44 +0100: Fetching: 17 bytes
+Thu, 14 Jan 2021 17:10:44 +0100: msg received but no match in subscriptions
+Thu, 14 Jan 2021 17:10:45 +0100: Received CMD: 3 (PUBLISH)
+Thu, 14 Jan 2021 17:10:45 +0100: Fetching: 17 bytes
+Thu, 14 Jan 2021 17:10:45 +0100: msg received but no match in subscriptions
+Thu, 14 Jan 2021 17:10:54 +0100: not had something in a while so ping
+Thu, 14 Jan 2021 17:10:54 +0100: ping sent
+Thu, 14 Jan 2021 17:10:54 +0100: Received CMD: 13 (PINGRESP)
+Thu, 14 Jan 2021 17:10:54 +0100: Fetching: 0 bytes
+Thu, 14 Jan 2021 17:11:05 +0100: Connected to DB
+Thu, 14 Jan 2021 17:11:05 +0100: execute query to DB successful
+Thu, 14 Jan 2021 17:11:05 +0100: Connected to Broker
+Thu, 14 Jan 2021 17:11:06 +0100: Received CMD: 3 (PUBLISH)
+Thu, 14 Jan 2021 17:11:07 +0100: Fetching: 17 bytes
+Thu, 14 Jan 2021 17:11:07 +0100: msg received but no match in subscriptions
+Thu, 14 Jan 2021 17:11:07 +0100: Received CMD: 3 (PUBLISH)
+Thu, 14 Jan 2021 17:11:07 +0100: Fetching: 17 bytes
+Thu, 14 Jan 2021 17:11:07 +0100: msg received but no match in subscriptions
+Thu, 14 Jan 2021 17:11:16 +0100: not had something in a while so ping
+Thu, 14 Jan 2021 17:11:16 +0100: ping sent
+Thu, 14 Jan 2021 17:11:16 +0100: Received CMD: 13 (PINGRESP)
+Thu, 14 Jan 2021 17:11:16 +0100: Fetching: 0 bytes

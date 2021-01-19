@@ -65,7 +65,6 @@ $port = $input_array[0][1];
 $mqtt = new phpMQTT_Extended($server, $port, $client_id, $cafile, $options["logfile"], $options["user"], $options["pass"], $options["database"]);
 
 
-//$mqtt->extractDateTime();
 
 
 if (isset($options["database"]) == FALSE) {
