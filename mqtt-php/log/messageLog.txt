@@ -739,80 +739,31 @@
 19/01/21 12:46:08 (localhost) topic: amm/matteo messaggio: ciao
 19/01/21 12:50:30 (localhost) topic: amm/matteo messaggio: ciao
 19/01/21 16:08:03 (localhost) topic: amm/matteo messaggio: ciao
-19/01/21 22:49:13 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-19/01/21 22:49:13 (localhost) topic: ciao/topi messaggio: testtopic
-19/01/21 22:49:13 (localhost) topic: home/garden/fountain messaggio: ciao
- 2
-19/01/21 22:49:13 (localhost) topic: amm/commerciale messaggio: ciao 1
-19/01/21 22:49:13 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
-19/01/21 22:49:26 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-19/01/21 22:49:51 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-19/01/21 22:49:51 (localhost) topic: ciao/topi messaggio: testtopic
-19/01/21 22:49:51 (localhost) topic: home/garden/fountain messaggio: ciao
- 2
-19/01/21 22:49:51 (localhost) topic: amm/commerciale messaggio: ciao 1
-19/01/21 22:49:51 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
-19/01/21 22:49:53 (localhost) topic: ristorante messaggio: 
-19/01/21 22:49:54 (localhost) topic: ristorante messaggio: 
-19/01/21 22:49:54 (localhost) topic: ristorante messaggio: 
-19/01/21 22:52:05 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-19/01/21 22:52:05 (localhost) topic: ciao/topi messaggio: testtopic
-19/01/21 22:52:05 (localhost) topic: home/garden/fountain messaggio: ciao
- 2
-19/01/21 22:52:05 (localhost) topic: amm/commerciale messaggio: ciao 1
-19/01/21 22:52:05 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
-19/01/21 22:52:11 (localhost) topic: ristorante messaggio: ciao
-19/01/21 22:52:12 (localhost) topic: ristorante messaggio: ciao
-19/01/21 22:52:12 (localhost) topic: ristorante messaggio: ciao
-19/01/21 22:52:13 (localhost) topic: ristorante messaggio: ciao
-19/01/21 22:52:13 (localhost) topic: ristorante messaggio: ciao
-19/01/21 22:52:28 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-19/01/21 22:52:50 (localhost) topic: ciao/topi messaggio: testtopic
-20/01/21 09:29:54 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-20/01/21 09:29:54 (localhost) topic: ciao/topi messaggio: testtopic
-20/01/21 09:29:54 (localhost) topic: home/garden/fountain messaggio: ciao
- 2
-20/01/21 09:29:54 (localhost) topic: amm/commerciale messaggio: ciao 1
-20/01/21 09:29:54 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
-20/01/21 09:30:22 (localhost) topic: ristorante messaggio: 
-20/01/21 09:30:23 (localhost) topic: ristorante messaggio: 
-20/01/21 09:30:28 (localhost) topic: ristorante messaggio: c
-20/01/21 09:31:05 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-20/01/21 09:31:05 (localhost) topic: ciao/topi messaggio: testtopic
-20/01/21 09:31:05 (localhost) topic: home/garden/fountain messaggio: ciao
- 2
-20/01/21 09:31:05 (localhost) topic: amm/commerciale messaggio: ciao 1
-20/01/21 09:31:05 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
-20/01/21 09:31:15 (localhost) topic: ristorante messaggio: c
-20/01/21 09:31:16 (localhost) topic: ristorante messaggio: c
-20/01/21 09:31:16 (localhost) topic: ristorante messaggio: c
-20/01/21 09:31:17 (localhost) topic: ristorante messaggio: c
-20/01/21 09:31:21 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:31:32 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:31:33 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:31:33 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:31:41 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:31:42 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:31:42 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:31:42 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:35:53 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-20/01/21 09:35:53 (localhost) topic: ciao/topi messaggio: testtopic
-20/01/21 09:35:53 (localhost) topic: home/garden/fountain messaggio: ciao
- 2
-20/01/21 09:35:54 (localhost) topic: amm/commerciale messaggio: ciao 1
-20/01/21 09:35:54 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
-20/01/21 09:35:56 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:35:57 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:35:57 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:35:58 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:35:59 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:36:00 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:36:01 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:36:02 (localhost) topic: ristorante messaggio: ciao
-20/01/21 09:37:30 (localhost) topic: ciao/topic messaggio: pubblicato solo per ciao/topic
-20/01/21 09:37:30 (localhost) topic: ciao/topi messaggio: testtopic
-20/01/21 09:37:30 (localhost) topic: home/garden/fountain messaggio: ciao
- 2
-20/01/21 09:37:30 (localhost) topic: amm/commerciale messaggio: ciao 1
-20/01/21 09:37:30 (localhost) topic: test messaggio: Hello World! at Fri, 27 Nov 2020 09:25:55 +0000
-20/01/21 09:37:34 (localhost) topic: ristorante messaggio: ciao
+19/01/21 17:32:57 (localhost) topic: amm/matteo messaggio: ciao
+19/01/21 17:49:51 (localhost) topic: amm/matteo messaggio: ciao
+19/01/21 17:53:24 (localhost) topic: amm/matteo messaggio: ciao
+19/01/21 17:54:14 (localhost) topic: amm/matteo messaggio: ciao
+19/01/21 17:57:22 (localhost) topic: amm/matteo messaggio: ciao
+20/01/21 09:52:41 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 09:52:58 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 09:53:02 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:21:52 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:27:04 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:28:21 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:29:05 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:29:15 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:40:41 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:41:38 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:42:30 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:42:34 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:42:39 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:43:45 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:43:45 (localhost) topic: amm/matteo messaggio: bolla
+20/01/21 11:44:00 (localhost) topic: amm/matteo messaggio: nuova bolla
+20/01/21 11:47:04 (localhost) topic: amm/matteo messaggio: nuova bolla
+20/01/21 11:47:14 (localhost) topic: amm/matteo messaggio: nuova bolla
+20/01/21 11:47:18 (localhost) topic: amm/matteo messaggio: nuova bolla
+20/01/21 12:53:16 (localhost) topic: amm/matteo messaggio: nuova bolla
+20/01/21 12:53:16 (localhost) topic: amm/matteo messaggio: nuova bolla
+20/01/21 14:16:48 (localhost) topic: amm/matteo messaggio: nuova bolla
+20/01/21 14:16:50 (localhost) topic: amm/matteo messaggio: nuova bolla

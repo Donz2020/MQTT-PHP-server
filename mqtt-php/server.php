@@ -1,9 +1,7 @@
 <?php
 
-//include('../mqtt-php/lib/Logging.php');
 include('../mqtt-php/lib/phpMQTT_Extended.php');
 include('../mqtt-php/lib/Logging_Extended.php');
-
 
 
 $client_id = 'phpMQTT-server';
@@ -17,7 +15,7 @@ $shortopts .= "s:";  // Required value   //todo per connect al server con indiri
 $shortopts .= "l:"; // required value  //todo per impostare path file di log
 $shortopts .= "u:";
 $shortopts .= "p:";
-$shortopts .= "d:";    //todo per impostare connessione al db prendendo i dati di auth dalla tabella
+$shortopts .= "d:";                     //todo per impostare connessione al db prendendo i dati di auth dalla tabella
 $shortopts .= "abc"; // These options do not accept values
 
 
@@ -69,6 +67,7 @@ $mqtt = new phpMQTT_Extended($server, $port, $client_id, $cafile, $options["logf
 
 if (isset($options["database"]) == FALSE) {
     print("non settata\n");
+    //todo logger connessione
     //$mqtt->logger($topic, $msg);
     $topics['#'] = array('qos' => 0);
     //$mqtt->_debugMessage("Database argument not passed by CLI");

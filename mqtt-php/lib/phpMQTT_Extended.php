@@ -16,7 +16,7 @@ class phpMQTT_Extended extends phpMQTT
 
     public function __construct($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database = null)
     {
-        parent::__construct($address, $port, $clientid, $cafile);
+        parent::__construct($address,$port,$clientid,$cafile);
         $this->broker($address, $port, $clientid, $cafile);
         $this->logfile = $logfile;
         $this->user = $user;
@@ -31,7 +31,7 @@ class phpMQTT_Extended extends phpMQTT
         echo date('r: ') . $message . PHP_EOL;
         $var = date('r: ') . $message . PHP_EOL;
         $filename = $this->logfile;
-        $myfile = fopen("D:/progetti_stage/mqtt-php/log/" . $filename, "a") or print("Unable to open file!");
+        $myfile = fopen("D:/progetti_stageMQTT-PHP-server/mqtt-php/log/" . $filename, "a") or print("Unable to open file!");
         fwrite($myfile, $var);
         fclose($myfile);
     }
@@ -52,7 +52,7 @@ class phpMQTT_Extended extends phpMQTT
         return ($lOra);
     }
 
-    
+
     public function logger($topic, $msg)
     {
         $log = new Logging_Extended();
@@ -133,7 +133,9 @@ class phpMQTT_Extended extends phpMQTT
                 if (method_exists('phpMQTT_Extended', 'logger')) {
 
                     $this->logger($topic, $msg);
-                    $this->connectDB($this->database);
+                    $host = $this->connectDB($this->database);
+                    $this->writeDB($host,$topic,$msg);
+                    $this->closeDB($host);
 
                     //call_user_func($top['function'], $topic, $msg);
                 }
@@ -147,11 +149,9 @@ class phpMQTT_Extended extends phpMQTT
             $this->_debugMessage('msg received but no match in subscriptions');
         }
 
-        echo $msg;
-        echo $topic;
+
         return $found;
     }
-
 
 
     public function connectDB($dsn)
@@ -165,24 +165,23 @@ class phpMQTT_Extended extends phpMQTT
 
         if ($connection == true) {
             $this->_debugMessage("Connected to DB");
-            $this->writeDB($connection);
+            //$this->writeDB($connection);
         } else {
             $this->_debugMessage("Failed to connect to DB");
         }
 
 
-        var_dump($connection);
+        return $connection;
     }
 
 
-
-    public function writeDB($connection)
+    public function writeDB($connection,$topic,$msg)
     {
 
         $query = 'INSERT INTO tx_mqttlog (TX_DATA,TX_ORA,TX_C_SERVER,TOPIC,MESSAGGIO,F_LETTO,F_ANNULLATO)
         VALUES(?,?,?,?,?,?,?);';
 
-        $data = [$this->getGiorni(), $this->getSecondi(), $this->extractIpAddress(), 'amm/commerciale', 'nuovabolla2', '0', '0'];
+        $data = [$this->getGiorni(), $this->getSecondi(), $this->extractIpAddress(), $topic, $msg, '0', '0'];
 
         //$data = ['$data', '$ora', '$server', '$topic', '$messaggio', '$letto', '$annullato'];
 
@@ -194,13 +193,10 @@ class phpMQTT_Extended extends phpMQTT
 
 
         if (odbc_execute($res, $data)) {
-            //$row = odbc_fetch_array($res);
-            //echo "execute query to DB successful !\n";
             $this->_debugMessage("execute query to DB successful");
         } else {
             $this->_debugMessage("ODBC exec of query returned false.");
             throw new Exception("ODBC exec of query returned false.");
-
         }
 
 
