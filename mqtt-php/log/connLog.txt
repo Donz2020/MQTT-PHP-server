@@ -37393,3 +37393,262 @@ Tue, 19 Jan 2021 17:25:09 +0100: not had something in a while so ping
 Tue, 19 Jan 2021 17:25:09 +0100: ping sent
 Tue, 19 Jan 2021 17:25:09 +0100: Received CMD: 13 (PINGRESP)
 Tue, 19 Jan 2021 17:25:09 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:31:04 +0100: Connected to Broker
+Wed, 20 Jan 2021 09:31:04 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:05 +0100: Fetching: 42 bytes
+Wed, 20 Jan 2021 09:31:05 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:05 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:05 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:05 +0100: Fetching: 20 bytes
+Wed, 20 Jan 2021 09:31:05 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:05 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:05 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:05 +0100: Fetching: 29 bytes
+Wed, 20 Jan 2021 09:31:05 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:05 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:05 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:05 +0100: Fetching: 23 bytes
+Wed, 20 Jan 2021 09:31:05 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:05 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:05 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:05 +0100: Fetching: 53 bytes
+Wed, 20 Jan 2021 09:31:05 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:05 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:15 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:31:15 +0100: ping sent
+Wed, 20 Jan 2021 09:31:15 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:31:15 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:31:15 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:15 +0100: Fetching: 13 bytes
+Wed, 20 Jan 2021 09:31:15 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:15 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:16 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:16 +0100: Fetching: 13 bytes
+Wed, 20 Jan 2021 09:31:16 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:16 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:16 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:16 +0100: Fetching: 13 bytes
+Wed, 20 Jan 2021 09:31:16 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:16 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:17 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:17 +0100: Fetching: 13 bytes
+Wed, 20 Jan 2021 09:31:17 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:17 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:21 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:21 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:21 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:21 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:26 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:31:26 +0100: ping sent
+Wed, 20 Jan 2021 09:31:26 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:31:26 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:31:32 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:32 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:32 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:32 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:33 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:33 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:33 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:33 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:33 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:33 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:33 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:33 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:37 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:31:37 +0100: ping sent
+Wed, 20 Jan 2021 09:31:37 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:31:37 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:31:41 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:41 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:41 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:41 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:42 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:42 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:42 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:42 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:42 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:42 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:42 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:42 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:42 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:31:42 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:31:42 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:31:42 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:31:48 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:31:48 +0100: ping sent
+Wed, 20 Jan 2021 09:31:48 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:31:48 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:31:59 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:31:59 +0100: ping sent
+Wed, 20 Jan 2021 09:31:59 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:31:59 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:32:10 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:32:10 +0100: ping sent
+Wed, 20 Jan 2021 09:32:10 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:32:10 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:32:21 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:32:21 +0100: ping sent
+Wed, 20 Jan 2021 09:32:21 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:32:21 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:32:32 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:32:32 +0100: ping sent
+Wed, 20 Jan 2021 09:32:32 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:32:32 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:32:43 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:32:43 +0100: ping sent
+Wed, 20 Jan 2021 09:32:43 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:32:43 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:32:54 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:32:54 +0100: ping sent
+Wed, 20 Jan 2021 09:32:54 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:32:54 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:33:05 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:33:05 +0100: ping sent
+Wed, 20 Jan 2021 09:33:05 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:33:05 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:33:16 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:33:16 +0100: ping sent
+Wed, 20 Jan 2021 09:33:16 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:33:16 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:33:27 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:33:27 +0100: ping sent
+Wed, 20 Jan 2021 09:33:27 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:33:27 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:33:38 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:33:38 +0100: ping sent
+Wed, 20 Jan 2021 09:33:38 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:33:38 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:33:49 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:33:49 +0100: ping sent
+Wed, 20 Jan 2021 09:33:49 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:33:49 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:34:00 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:34:00 +0100: ping sent
+Wed, 20 Jan 2021 09:34:00 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:34:00 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:34:11 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:34:11 +0100: ping sent
+Wed, 20 Jan 2021 09:34:11 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:34:11 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:34:22 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:34:22 +0100: ping sent
+Wed, 20 Jan 2021 09:34:22 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:34:22 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:34:33 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:34:33 +0100: ping sent
+Wed, 20 Jan 2021 09:34:33 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:34:33 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:34:44 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:34:44 +0100: ping sent
+Wed, 20 Jan 2021 09:34:44 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:34:44 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:34:55 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:34:55 +0100: ping sent
+Wed, 20 Jan 2021 09:34:55 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:34:55 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:35:06 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:35:06 +0100: ping sent
+Wed, 20 Jan 2021 09:35:06 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:35:06 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:35:17 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:35:17 +0100: ping sent
+Wed, 20 Jan 2021 09:35:17 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:35:17 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:35:28 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:35:28 +0100: ping sent
+Wed, 20 Jan 2021 09:35:28 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:35:28 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:35:39 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:35:39 +0100: ping sent
+Wed, 20 Jan 2021 09:35:39 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:35:39 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:35:50 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:35:50 +0100: ping sent
+Wed, 20 Jan 2021 09:35:50 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:35:50 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:35:53 +0100: Connected to Broker
+Wed, 20 Jan 2021 09:35:53 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:53 +0100: Fetching: 42 bytes
+Wed, 20 Jan 2021 09:35:53 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:53 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:53 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:53 +0100: Fetching: 20 bytes
+Wed, 20 Jan 2021 09:35:53 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:53 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:53 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:53 +0100: Fetching: 29 bytes
+Wed, 20 Jan 2021 09:35:53 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:54 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:54 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:54 +0100: Fetching: 23 bytes
+Wed, 20 Jan 2021 09:35:54 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:54 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:54 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:54 +0100: Fetching: 53 bytes
+Wed, 20 Jan 2021 09:35:54 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:54 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:56 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:56 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:35:56 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:56 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:57 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:57 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:35:57 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:57 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:57 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:57 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:35:57 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:57 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:58 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:58 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:35:58 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:58 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:35:59 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:35:59 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:35:59 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:35:59 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:36:00 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:36:00 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:36:00 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:36:00 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:36:01 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:36:01 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:36:01 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:36:01 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:36:02 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:36:02 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:36:02 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:36:02 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:36:04 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:36:04 +0100: ping sent
+Wed, 20 Jan 2021 09:36:04 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:36:04 +0100: Fetching: 0 bytes
+Wed, 20 Jan 2021 09:37:30 +0100: Connected to Broker
+Wed, 20 Jan 2021 09:37:30 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:37:30 +0100: Fetching: 42 bytes
+Wed, 20 Jan 2021 09:37:30 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:37:30 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:37:30 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:37:30 +0100: Fetching: 20 bytes
+Wed, 20 Jan 2021 09:37:30 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:37:30 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:37:30 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:37:30 +0100: Fetching: 29 bytes
+Wed, 20 Jan 2021 09:37:30 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:37:30 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:37:30 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:37:30 +0100: Fetching: 23 bytes
+Wed, 20 Jan 2021 09:37:30 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:37:30 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:37:30 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:37:30 +0100: Fetching: 53 bytes
+Wed, 20 Jan 2021 09:37:30 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:37:30 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:37:34 +0100: Received CMD: 3 (PUBLISH)
+Wed, 20 Jan 2021 09:37:34 +0100: Fetching: 16 bytes
+Wed, 20 Jan 2021 09:37:34 +0100: Failed to connect to DB
+Wed, 20 Jan 2021 09:37:34 +0100: msg received but no match in subscriptions
+Wed, 20 Jan 2021 09:37:41 +0100: not had something in a while so ping
+Wed, 20 Jan 2021 09:37:41 +0100: ping sent
+Wed, 20 Jan 2021 09:37:41 +0100: Received CMD: 13 (PINGRESP)
+Wed, 20 Jan 2021 09:37:41 +0100: Fetching: 0 bytes

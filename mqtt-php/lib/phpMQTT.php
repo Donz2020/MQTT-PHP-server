@@ -444,7 +444,7 @@ class phpMQTT
      *
      * @param $msg
      *
-     * @retrun bool|string
+     * @return bool|string
      */
     public function message($msg)
     {

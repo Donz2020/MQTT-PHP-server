@@ -6,17 +6,23 @@ class phpMQTT_Extended extends phpMQTT
 
 {
 
+    /**
+     * @var mixed|null
+     */
+    private $database;
+    private $logfile;
+    private $user;
+    private $pass;
 
     public function __construct($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database = null)
     {
-        $this->broker($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database);
+        parent::__construct($address, $port, $clientid, $cafile);
+        $this->broker($address, $port, $clientid, $cafile);
         $this->logfile = $logfile;
         $this->user = $user;
         $this->pass = $pass;
         $this->database = $database;
         $this->address = $address;
-        
-        //echo $database;
     }
 
     protected function _debugMessage(string $message): void
@@ -25,7 +31,7 @@ class phpMQTT_Extended extends phpMQTT
         echo date('r: ') . $message . PHP_EOL;
         $var = date('r: ') . $message . PHP_EOL;
         $filename = $this->logfile;
-        $myfile = fopen("D:/progetti_stage/mqtt-php/log" . $filename, "a") or print("Unable to open file!");
+        $myfile = fopen("D:/progetti_stage/mqtt-php/log/" . $filename, "a") or print("Unable to open file!");
         fwrite($myfile, $var);
         fclose($myfile);
     }
@@ -78,9 +84,7 @@ class phpMQTT_Extended extends phpMQTT
         $month =  @date('m');
         $day =  @date('d');
 
-        $giorni = $this->fint_libDMF_aammgg2N($year, $month, $day);
-
-        return $giorni;
+        return $this->fint_libDMF_aammgg2N($year, $month, $day);
     }
 
     public function getSecondi()
@@ -89,15 +93,12 @@ class phpMQTT_Extended extends phpMQTT
         $minute = @date('i');
         $second = @date('s');
 
-        $secondi = $this->fint_libDMF_hhmmss2N($hour, $minute, $second);
-
-        return $secondi;
+        return $this->fint_libDMF_hhmmss2N($hour, $minute, $second);
     }
 
     public function extractIpAddress()
     {
-        $address = $this->address;
-        return $address;
+        return $this->address;
     }
 
 
@@ -197,8 +198,9 @@ class phpMQTT_Extended extends phpMQTT
             //echo "execute query to DB successful !\n";
             $this->_debugMessage("execute query to DB successful");
         } else {
-            throw new Exception("ODBC exec of query returned false.");
             $this->_debugMessage("ODBC exec of query returned false.");
+            throw new Exception("ODBC exec of query returned false.");
+
         }
 
 

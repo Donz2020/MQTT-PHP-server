@@ -17,7 +17,7 @@ $shortopts .= "s:";  // Required value   //todo per connect al server con indiri
 $shortopts .= "l:"; // required value  //todo per impostare path file di log
 $shortopts .= "u:";
 $shortopts .= "p:";
-$shortopts .= "d:";                     //todo per impostare connessione al db prendendo i dati di auth dalla tabella
+$shortopts .= "d:";    //todo per impostare connessione al db prendendo i dati di auth dalla tabella
 $shortopts .= "abc"; // These options do not accept values
 
 
@@ -69,7 +69,6 @@ $mqtt = new phpMQTT_Extended($server, $port, $client_id, $cafile, $options["logf
 
 if (isset($options["database"]) == FALSE) {
     print("non settata\n");
-    //todo logger connessione
     //$mqtt->logger($topic, $msg);
     $topics['#'] = array('qos' => 0);
     //$mqtt->_debugMessage("Database argument not passed by CLI");
@@ -89,19 +88,6 @@ if (isset($options["database"]) == FALSE) {
     }
 }
 
-/*
-if (isset($options["logfile"]) == FALSE) {
-    print("non settata\n");
-    
-} else {
-    echo "settata\n";
-}
-*/
-
-//passo qua i valori e in caso l'handle della connessione ritorna false, faccio il log su testo
-
-//$db->connect($options["database"]);
-
 
 
 if (!$mqtt->connect(true, NULL, $options["user"], $options["pass"])) {
@@ -119,26 +105,3 @@ while ($mqtt->proc()) {
 $mqtt->close();
 
 
-/*
-* Function to log messages from topics
-*/
-
-/*
-function logger($topic, $msg)
-{
-    $log = new Logging();
-    $logpath = '../mqtt-php/log/logfile.txt';
-    $log->lfile($logpath);
-    $log->lwrite("topic:" . " " . $topic, "messaggio:" . " " . $msg);
-    $log->lclose();
-}
-*/
-
-/*
-function db($dsn)
-{
-
-    $db = new DB();
-    $db->dbConnect($dsn);
-}
-*/
