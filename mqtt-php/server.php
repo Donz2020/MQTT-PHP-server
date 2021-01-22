@@ -1,7 +1,9 @@
 <?php
 
+//include('../mqtt-php/lib/Logging.php');
 include('../mqtt-php/lib/phpMQTT_Extended.php');
 include('../mqtt-php/lib/Logging_Extended.php');
+
 
 
 $client_id = 'phpMQTT-server';
