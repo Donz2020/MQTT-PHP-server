@@ -16,7 +16,7 @@ class phpMQTT_Extended extends phpMQTT
 
     public function __construct($address, $port, $clientid, $cafile, $logfile, $user, $pass, $database = null)
     {
-        parent::__construct($address,$port,$clientid,$cafile);
+        parent::__construct($address, $port, $clientid, $cafile);
         $this->broker($address, $port, $clientid, $cafile);
         $this->logfile = $logfile;
         $this->user = $user;
@@ -134,7 +134,7 @@ class phpMQTT_Extended extends phpMQTT
 
                     $this->logger($topic, $msg);
                     $host = $this->connectDB($this->database);
-                    $this->writeDB($host,$topic,$msg);
+                    $this->writeDB($host, $topic, $msg);
                     $this->closeDB($host);
 
                     //call_user_func($top['function'], $topic, $msg);
@@ -175,7 +175,7 @@ class phpMQTT_Extended extends phpMQTT
     }
 
 
-    public function writeDB($connection,$topic,$msg)
+    public function writeDB($connection, $topic, $msg)
     {
 
         $query = 'INSERT INTO tx_mqttlog (TX_DATA,TX_ORA,TX_C_SERVER,TOPIC,MESSAGGIO,F_LETTO,F_ANNULLATO)
